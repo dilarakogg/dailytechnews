@@ -17,12 +17,27 @@ def get_smart_summary(text):
     if not text or len(text.split()) < 50:
         return "Inhalt is too short."
     
-    # Pegasus-XSUM API Kullanımı (pipeline yerine bulut çağrısı)
     API_URL = "https://api-inference.huggingface.co/models/google/pegasus-xsum"
     headers = {"Authorization": f"Bearer {HF_TOKEN}"}
     
-    # Metni çok uzunsa keselim (API sınırı için)
+    
     input_text = text[:3000]
+    payload = {
+        "inputs": input_text,
+        "options": {"wait_for_model": True} 
+    }
+    
+    try:
+        # Timeout süresini 60 saniyeye çıkardık ki modelin uyanmasına vakit kalsın
+        response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+        output = response.json()
+        
+        if isinstance(output, list) and len(output) > 0:
+            return output[0].get('summary_text', 'Özet hazır değil.').strip()
+        elif isinstance(output, dict) and "estimated_time" in output:
+            return f"Model uyanıyor... Lütfen bir sonraki çalıştırmada kontrol edin (Tahmini: {int(output['estimated_time'])} sn)."
+        else:
+            return f"Analiz sırasında bir durum oluştu: {output}"
     
     try:
         response = requests.post(API_URL, headers=headers, json={"inputs": input_text}, timeout=20)
@@ -86,3 +101,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

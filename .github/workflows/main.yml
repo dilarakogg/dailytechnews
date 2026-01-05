@@ -27,4 +27,4 @@ jobs:
         env:
           MAIL_ADRESI: ${{ secrets.MAIL_ADRESI }}
           MAIL_SIFRESI: ${{ secrets.MAIL_SIFRESI }}
-        run: python haber_botu.py
+        run: daily_news.py

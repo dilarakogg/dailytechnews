@@ -1,12 +1,11 @@
 name: Gunluk Haber Botu Calistirici
-run: python daily_news.py
 
 on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: 
   schedule:
-    # Almanya saatiyle (CET) sabah 08:00'de çalışması için:
-    # Almanya UTC+1 olduğu için UTC saatini 07:00'ye kuruyoruz.
     - cron: '0 7 * * *'
-  workflow_dispatch: # Bu satır sayesinde "Run workflow" butonuyla elle test edebilirsin
 
 jobs:
   build:
@@ -28,4 +27,5 @@ jobs:
         env:
           MAIL_ADRESI: ${{ secrets.MAIL_ADRESI }}
           MAIL_SIFRESI: ${{ secrets.MAIL_SIFRESI }}
+          # Buraya OpenAI yerine HuggingFace kullanacaksak onun secret'ını ekleyeceğiz
         run: python daily_news.py

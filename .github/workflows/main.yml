@@ -1,4 +1,5 @@
 name: Gunluk Haber Botu Calistirici
+run:python daily_news.py
 
 on:
   schedule:
@@ -27,4 +28,4 @@ jobs:
         env:
           MAIL_ADRESI: ${{ secrets.MAIL_ADRESI }}
           MAIL_SIFRESI: ${{ secrets.MAIL_SIFRESI }}
-        run: daily_news.py
+        run: python daily_news.py

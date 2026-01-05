@@ -1,0 +1,30 @@
+name: Gunluk Haber Botu Calistirici
+
+on:
+  schedule:
+    # Almanya saatiyle (CET) sabah 08:00'de çalışması için:
+    # Almanya UTC+1 olduğu için UTC saatini 07:00'ye kuruyoruz.
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Bu satır sayesinde "Run workflow" butonuyla elle test edebilirsin
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodlari depodan cek
+        uses: actions/checkout@v3
+
+      - name: Python 3.9 Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kutuphaneleri yukle
+        run: |
+          pip install -r requirements.txt
+
+      - name: Haber Botunu Calistir
+        env:
+          MAIL_ADRESI: ${{ secrets.MAIL_ADRESI }}
+          MAIL_SIFRESI: ${{ secrets.MAIL_SIFRESI }}
+        run: python haber_botu.py

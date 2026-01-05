@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+feedparser
+transformers
+torch
+python-dotenv
+streamlit

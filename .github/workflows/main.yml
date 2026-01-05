@@ -1,5 +1,5 @@
 name: Gunluk Haber Botu Calistirici
-run:python daily_news.py
+run: daily_news.py
 
 on:
   schedule:

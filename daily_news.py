@@ -13,12 +13,17 @@ MAX_HABER = 3
 MAIL_ADRESI = os.getenv("MAIL_ADRESI")
 MAIL_SIFRESI = os.getenv("MAIL_SIFRESI")
 HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+def basit_ozetle(text):
+    """Eğer AI çalışmazsa devreye girecek olan garantili özetleyici."""
+    sentences = text.split('.')
+    summary = ". ".join(sentences[:2]) + "."
+    return f"(Hızlı Özet): {summary}"
 
 def get_smart_summary(text):
     if not text or len(text.split()) < 80:
         return "İçerik analiz için çok kısa."
     
-    API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
+    API_URL = "https://api-inference.huggingface.co/models/slauw87/bart_summarisation"
     headers = {"Authorization": f"Bearer {HF_TOKEN}"}
     input_text = text[:3000]
     
@@ -39,7 +44,7 @@ def get_smart_summary(text):
         return f"Bağlantı hatası: {e}"
 
 def main():
-    feeds = ["https://www.technologyreview.com/feed/", "https://medium.com/feed/topic/technology"]
+    feeds = [ "https://medium.com/feed/topic/technology"]
     secilenler = []
 
     for url in feeds:
@@ -80,5 +85,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 

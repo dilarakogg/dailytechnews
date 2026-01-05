@@ -15,10 +15,10 @@ MAIL_SIFRESI = os.getenv("MAIL_SIFRESI")
 HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 def get_smart_summary(text):
-    if not text or len(text.split()) < 50:
+    if not text or len(text.split()) < 80:
         return "İçerik analiz için çok kısa."
     
-    API_URL = "https://api-inference.huggingface.co/models/google/pegasus-xsum"
+    API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
     headers = {"Authorization": f"Bearer {HF_TOKEN}"}
     input_text = text[:3000]
     
@@ -80,3 +80,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

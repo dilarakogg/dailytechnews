@@ -26,7 +26,16 @@ The project is built on a Python-based data processing loop and leverages the fo
 
 
 ├── .github/workflows/
+
 │   └── daily_run.yml    # GitHub Actions workflow configuration
+
+
 ├── dailytechnews.py     # Main processing engine and logic
+
+
 ├── requirements.txt     # Project dependencies
+
+
 ├── sent_articles.txt    # Record of previously sent articles (Memory)
+
+

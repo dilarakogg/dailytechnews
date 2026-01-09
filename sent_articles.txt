@@ -4,3 +4,6 @@ A smarter way for large language models to think about hard problems
 Researchers discover a shortcoming that makes LLMs less reliable
 How artificial intelligence can help achieve a clean energy future
 3 Questions: How AI is helping us monitor and support vulnerable ecosystems
+New prediction model could improve the reliability of fusion power plants
+Printable aluminum alloy sets strength records, may enable lighter aircraft parts
+AI has no idea what it’s doing, but it’s threatening us all

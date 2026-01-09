@@ -1,31 +1,43 @@
-name: Gunluk Haber Botu Calistirici
+name: Daily Tech News Bot
 
 on:
   push:
     branches: [ "main" ]
   workflow_dispatch: 
   schedule:
+    # 07:00 UTC is 08:00 AM in Germany (CET)
     - cron: '0 7 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
-      - name: Kodlari depodan cek
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Python 3.9 Kur
+      - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
-      - name: Kutuphaneleri yukle
+      - name: Install dependencies
         run: |
           pip install -r requirements.txt
 
-      - name: Haber Botunu Calistir
+      - name: Run News Bot
         env:
           MAIL_ADRESI: ${{ secrets.MAIL_ADRESI }}
           MAIL_SIFRESI: ${{ secrets.MAIL_SIFRESI }}
-          # Buraya OpenAI yerine HuggingFace kullanacaksak onun secret'ını ekleyeceğiz
-        run: python daily_news.py
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python dailytechnews.py
+
+      - name: Update history file
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add sent_articles.txt
+          git commit -m "Automated: Update sent articles history" || echo "No new news to commit."
+          git push

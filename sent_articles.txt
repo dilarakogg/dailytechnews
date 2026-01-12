@@ -13,3 +13,6 @@ Guardrails, education urged to protect adolescent AI users
 Self-powered artificial synapse mimics human color vision
 AI meets game theory: How language models perform in human-like social scenarios
 Could AI understand emotions better than we do?
+Integrating AI with ERP and CRM systems: Best practices for seamless enterprise adoption
+Don’t Build An ML Portfolio Without These Projects
+How a Data Scientist Actually Thinks About Machine Learning Algorithms

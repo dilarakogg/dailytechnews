@@ -16,3 +16,6 @@ Could AI understand emotions better than we do?
 Integrating AI with ERP and CRM systems: Best practices for seamless enterprise adoption
 Don’t Build An ML Portfolio Without These Projects
 How a Data Scientist Actually Thinks About Machine Learning Algorithms
+Active Inference: Moving Beyond Reactive Machine Learning
+6 easy steps to create Data collection points in your company to be successful with AI — Raybiztech
+Artificial intelligence begins prescribing medications in Utah - Politico

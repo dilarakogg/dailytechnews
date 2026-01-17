@@ -29,3 +29,6 @@ Learn Data Science and Machine Learning in 2026: A Realistic Roadmap for Working
 A.I Revolution Online Course 2026: Learn AI Skills Before Everyone Else Does
 How Mid-Sized Companies Are Using AI to Compete With Enterprise Giants.
 Preserving Meaning as Intelligence Scales
+Can Public Data Predict House Prices? An End-to-End Machine Learning Project.
+Bias and Variance Explained Without Math
+Análisis predictivo: cómo los datos aprenden del pasado para anticipar el futuro

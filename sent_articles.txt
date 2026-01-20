@@ -38,3 +38,6 @@ The Mirage Machine: Why Large Language Models Hallucinate—and What It Takes to
 The Importance of AI Governance and Ethics in Enterprise Deployments
 Evaluating Generative AI Tools for Code Assistance in Production
 I Tried NeuTTS Air on My Laptop… and It Changed How Local TTS Feels
+Fundamentals of AI & Machine Learning
+Writers Can Use AI to Write? An Opinionated Guide to AI Use
+Stop Building AI Startups. Learn These 5 Boring Skills Instead.

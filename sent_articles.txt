@@ -41,3 +41,6 @@ I Tried NeuTTS Air on My Laptop… and It Changed How Local TTS Feels
 Fundamentals of AI & Machine Learning
 Writers Can Use AI to Write? An Opinionated Guide to AI Use
 Stop Building AI Startups. Learn These 5 Boring Skills Instead.
+SPARK Matrix : Artificial Intelligence Services
+Generative AI vs AI vs Machine Learning (ML): What’s the Difference in 2026?
+Learning DAG-Based Job Scheduling with Graph Neural Networks and Reinforcement Learning

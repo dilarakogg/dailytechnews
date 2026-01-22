@@ -44,3 +44,6 @@ Stop Building AI Startups. Learn These 5 Boring Skills Instead.
 SPARK Matrix : Artificial Intelligence Services
 Generative AI vs AI vs Machine Learning (ML): What’s the Difference in 2026?
 Learning DAG-Based Job Scheduling with Graph Neural Networks and Reinforcement Learning
+How Learning C Changed the Way I Understand AI
+Architect Intelligent Learning Systems & Predictive Excellence — Certified Machine Learning Master
+From Computer Vision to FinTech and Back: An Interview That Took Me 11 Years Back

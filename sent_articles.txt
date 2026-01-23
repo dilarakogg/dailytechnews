@@ -47,3 +47,6 @@ Learning DAG-Based Job Scheduling with Graph Neural Networks and Reinforcement L
 How Learning C Changed the Way I Understand AI
 Architect Intelligent Learning Systems & Predictive Excellence — Certified Machine Learning Master
 From Computer Vision to FinTech and Back: An Interview That Took Me 11 Years Back
+World models could unlock the next revolution in artificial intelligence - Scientific American
+Artificial intelligence: Council paves the way for the creation of AI gigafactories - consilium.europa.eu
+Artificial intelligence has a role in medicine, and in my PF care - Pulmonary Fibrosis News

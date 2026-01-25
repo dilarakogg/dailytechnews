@@ -53,3 +53,6 @@ Artificial intelligence has a role in medicine, and in my PF care - Pulmonary Fi
 “Understanding the risks of AI, including misinformation, bias, and privacy issues.”
 How AI Spam Filters Actually Work in 2026
 The Future of Machine Learning in Enterprise Software
+Wired to Heal AI and Bio-Cybernetic Implants
+Build Your First Deep Learning Project Using CNN
+Stop Using Accuracy. Why the MCC Metric is the Only Metric You Need for Imbalanced Data.

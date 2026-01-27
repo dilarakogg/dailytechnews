@@ -59,3 +59,6 @@ Stop Using Accuracy. Why the MCC Metric is the Only Metric You Need for Imbalanc
 AI & Machine Learning Careers: Skills, Jobs & Future Scope
 New Study Examines Gender Differences in Perceptions of Artificial Intelligence Risk - Caltech
 Scientific-Integrity Theft by Artificial Intelligence - Avi Loeb – Medium
+Your company needs Cyber Security tools developed on Artificial Intelligence in 2021! — Raybiztech
+The Missing Control Plane for GPU Platforms: Policy as Code, Not Just Schedulers
+Evaluation Metrics: How to Measure Machine Learning Model Performance

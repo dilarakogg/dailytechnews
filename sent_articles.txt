@@ -62,3 +62,6 @@ Scientific-Integrity Theft by Artificial Intelligence - Avi Loeb – Medium
 Your company needs Cyber Security tools developed on Artificial Intelligence in 2021! — Raybiztech
 The Missing Control Plane for GPU Platforms: Policy as Code, Not Just Schedulers
 Evaluation Metrics: How to Measure Machine Learning Model Performance
+Artificial Intelligence improving patient care, hospitals management and imaging — Raybiztech
+GRU: When LSTM Meets Occam’s Razor
+Geopolitics in the Age of Artificial Intelligence - Foreign Affairs

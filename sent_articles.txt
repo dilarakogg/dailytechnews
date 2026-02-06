@@ -89,3 +89,6 @@ Can AI *really* research like us? This new framework puts it to the test.
 Antonio Torralba, three MIT alumni named 2025 ACM fellows
 What If Artificial Intelligence Were an Investor?
 Machine Learning Algorithms Explained Simply: A Beginner-Friendly Guide
+Helping AI agents search to get the best results out of large language models
+Generative Artificial Intelligence: Transforming Ideas into Intelligent Innovation
+Google Just Bet $185 Billion That Everyone Else Is Thinking Too Small About AI

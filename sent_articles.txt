@@ -95,3 +95,6 @@ Google Just Bet $185 Billion That Everyone Else Is Thinking Too Small About AI
 The Technological Evolution of AI Music Generation: From Algorithmic Composition to Deep Learning…
 Machine Learning in Cybersecurity: Beyond the Hype
 The dynamic frontier of artificial intelligence - Nature
+Scikit-learn: From Zero to Hero (Part 8): Least Angle Regression
+Unlocking the Mysteries of Large Language Models: A Deep Dive
+Artificial Intelligence in Bethlehem CSD - Bethlehem Central School District

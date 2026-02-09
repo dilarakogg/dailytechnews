@@ -98,3 +98,6 @@ The dynamic frontier of artificial intelligence - Nature
 Scikit-learn: From Zero to Hero (Part 8): Least Angle Regression
 Unlocking the Mysteries of Large Language Models: A Deep Dive
 Artificial Intelligence in Bethlehem CSD - Bethlehem Central School District
+The New Phase of AI: From Tools to Autonomous Systems
+Python for Edge AI: Deploying ML Models on Edge Devices
+Machine Learning Training with Real Time Projects

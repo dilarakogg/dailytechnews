@@ -104,3 +104,6 @@ Machine Learning Training with Real Time Projects
 Inside the Mind of AI: How Clawdbot’s Memory Flush Solves the Context Window Crisis
 Machine Learning (ML) Market Size, Trends & Growth Forecast 2033
 How SMEs Can Start AI Automation Without a Huge Investment.
+Machine Learning for Beginners #1: The Introduction
+Training your ML Model.. Recipe and Ingredients
+Examining human reliance on artificial intelligence in decision making - Nature

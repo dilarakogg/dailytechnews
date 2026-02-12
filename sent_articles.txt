@@ -107,3 +107,6 @@ How SMEs Can Start AI Automation Without a Huge Investment.
 Machine Learning for Beginners #1: The Introduction
 Training your ML Model.. Recipe and Ingredients
 Examining human reliance on artificial intelligence in decision making - Nature
+Exploring the ConserVision Wildlife Classification Challenge
+AI/ML Under the Hood — Part 13 — Neural Networks: From Perceptrons to Backpropagation
+Kennesaw State University to launch Bachelor of Science in Artificial Intelligence in Fall 2026 - Kennesaw State University

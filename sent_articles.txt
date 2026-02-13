@@ -110,3 +110,6 @@ Examining human reliance on artificial intelligence in decision making - Nature
 Exploring the ConserVision Wildlife Classification Challenge
 AI/ML Under the Hood — Part 13 — Neural Networks: From Perceptrons to Backpropagation
 Kennesaw State University to launch Bachelor of Science in Artificial Intelligence in Fall 2026 - Kennesaw State University
+AI and Machine Learning in Cybersecurity
+US companies accused of ‘AI washing’ in citing artificial intelligence for job losses - The Guardian
+University of Nebraska launches ‘AI Institute’ for artificial intelligence research - Nebraska Public Media

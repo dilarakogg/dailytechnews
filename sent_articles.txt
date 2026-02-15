@@ -116,3 +116,6 @@ University of Nebraska launches ‘AI Institute’ for artificial intelligence r
 What is Machine Learning?
 More Human: On Science Fairs, Artificial Intelligence, and Educational Experiments - The Rumpus
 How Artificial Intelligence Is Shaping the Christian and Church Life - TGC Africa
+Climate Circuits AI and Smart Environmental Systems
+The Real Trust Problem in AI Isn’t Accuracy — It’s Identity
+AI = Artificial Intelligence or Always Incorrect? - CleanTechnica

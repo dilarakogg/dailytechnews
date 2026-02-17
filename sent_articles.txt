@@ -122,3 +122,6 @@ AI = Artificial Intelligence or Always Incorrect? - CleanTechnica
 How AI and Affiliate Marketing Are Creating the Ultimate Online Income Path for 2026
 Machine Learning Teams Don’t Have a Model Problem. They Have a Data Infrastructure Problem.
 Could artificial intelligence save endangered archives? A Kenyon College cohort aims to find out - The Statehouse News Bureau
+NLP Landscape: 1950s to 2020s
+Encoding in Machine Learning
+The Hidden Failure Modes That Quietly Break AI Systems in Production

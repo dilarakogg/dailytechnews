@@ -131,3 +131,6 @@ Artificial Intelligence - Duke University School of Medicine
 Artificial Intelligence Experience Optimization by Thatware LLP: Smarter Digital Growth
 Top Artificial Intelligence and Machine Learning Training in Chandigarh and Mohali
 AI Is the New MLM — And We’re All Participating
+Exposing biases, moods, personalities, and abstract concepts hidden in large language models
+Backpropagation Demystified:
+The Mathematical Language Behind Artificial Intelligence

@@ -146,3 +146,6 @@ A scoping review of silent trials for medical artificial intelligence - Nature
 Will artificial intelligence make human workers obsolete? - Johns Hopkins University
 FSU’S 2026 Artificial Intelligence and Machine Learning Expo explores latest applications for technology across industries - Florida State University News
 Artificial intelligence-generated synthetic data for cancer research and clinical trials - Nature
+How Artificial Intelligence Is Quietly Transforming the Travel Industry
+10 Proyectos para tu Portafolio en Data Science
+Don’t Climb from Sea Level: Understanding MAML Through the Base Camp Strategy

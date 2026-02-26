@@ -149,3 +149,6 @@ Artificial intelligence-generated synthetic data for cancer research and clinica
 How Artificial Intelligence Is Quietly Transforming the Travel Industry
 10 Proyectos para tu Portafolio en Data Science
 Don’t Climb from Sea Level: Understanding MAML Through the Base Camp Strategy
+I Was a UI/UX Designer. Then I Trained an AI Model and It Changed How I Think
+List of the best AI YouTube channels
+The Hidden Role of High-Quality Training Data in AI Model Performance

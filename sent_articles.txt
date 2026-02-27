@@ -152,3 +152,6 @@ Don’t Climb from Sea Level: Understanding MAML Through the Base Camp Strategy
 I Was a UI/UX Designer. Then I Trained an AI Model and It Changed How I Think
 List of the best AI YouTube channels
 The Hidden Role of High-Quality Training Data in AI Model Performance
+What I Learned for Building Machine Learning Models
+Most artificial intelligence legislation in Virginia was tabled until 2027 - VPM
+Pros and Cons of Artificial Intelligence - A Wealth of Common Sense

@@ -164,3 +164,6 @@ The Conflict of “Ethics vs.
 Opinion | Real Despots Hijack Artificial Intelligence - The New York Times
 Artificial Intelligence: Key insights, data and tables - Ipsos
 Artificial Intelligence polls & surveys - YouGov
+Cara Meningkatkan Performa Model ML dengan Hyperparameter Tuning
+Cara Memulai Proyek Machine Learning dari Nol dengan TensorFlow
+Va. lawmakers propose guardrails for artificial intelligence use in education - Virginia Mercury

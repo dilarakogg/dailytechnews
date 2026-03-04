@@ -167,3 +167,6 @@ Artificial Intelligence polls & surveys - YouGov
 Cara Meningkatkan Performa Model ML dengan Hyperparameter Tuning
 Cara Memulai Proyek Machine Learning dari Nol dengan TensorFlow
 Va. lawmakers propose guardrails for artificial intelligence use in education - Virginia Mercury
+Suno AI Prompt Engineering: How to Create Viral AI Music Tracks Step by Step
+VCSU Hosting Public Lecture Series on Artificial Intelligence - Valley City State University
+Artificial intelligence makes X‑ray spectroscopy five times faster, smarter and less prone to human error - anl.gov

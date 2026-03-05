@@ -170,3 +170,6 @@ Va. lawmakers propose guardrails for artificial intelligence use in education - 
 Suno AI Prompt Engineering: How to Create Viral AI Music Tracks Step by Step
 VCSU Hosting Public Lecture Series on Artificial Intelligence - Valley City State University
 Artificial intelligence makes X‑ray spectroscopy five times faster, smarter and less prone to human error - anl.gov
+Membangun API Machine Learning menggunakan R Plumber
+Introduction to Reinforcement Learning with Python
+Data Lineage in AI Systems: How to Trace Production Failures Back to Their Source

@@ -173,3 +173,6 @@ Artificial intelligence makes X‑ray spectroscopy five times faster, smarter an
 Membangun API Machine Learning menggunakan R Plumber
 Introduction to Reinforcement Learning with Python
 Data Lineage in AI Systems: How to Trace Production Failures Back to Their Source
+From Deep Learning to Generative AI: Understanding AWS Tools That Power Modern AI
+How Artificial Intelligence Enhances Fraud Detection in eWallet Apps
+Artificial intelligence - AP News

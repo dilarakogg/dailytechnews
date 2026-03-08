@@ -179,3 +179,6 @@ Artificial intelligence - AP News
 10 Things I Wish Someone Told Me Before Learning Machine Learning
 6 Machine Learning Habits That Made Me a Better Data Scientist
 Opinion | Real Despots Hijack Artificial Intelligence - The New York Times - The New York Times
+AI Is Advancing Faster Than Our Ability to Govern It
+AI Agents Shouldn’t Relearn GitHub on Every Run
+I Spent 30 Hours Debugging My ML Model — Here Are 5 Lessons I Learned

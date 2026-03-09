@@ -182,3 +182,6 @@ Opinion | Real Despots Hijack Artificial Intelligence - The New York Times - The
 AI Is Advancing Faster Than Our Ability to Govern It
 AI Agents Shouldn’t Relearn GitHub on Every Run
 I Spent 30 Hours Debugging My ML Model — Here Are 5 Lessons I Learned
+Machine Learning and Artificial Intelligence: More Than Just Terms
+Artificial Intelligence: friend or foe for hiring in Europe today? - European Central Bank
+What is artificial intelligence? - Denison Forum

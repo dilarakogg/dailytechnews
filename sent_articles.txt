@@ -191,3 +191,6 @@ The Hidden Half of AI Engineering
 Artificial Intelligence Basics Every Tech Student Should Know
 ChatGPT, The Pentagon, and the Backlash: When AI Ethics Collide With National Security
 The Ancient Origins of AI: Why Humanity Has Always Dreamed of Thinking Machines
+3 Questions: On the future of AI and the mathematical and physical sciences
+Microsoft’s Phi-4-Reasoning-Vision: The Brute Force Era vs. The Selective Reasoning Era
+Running Large Language Models Locally: A Beginner’s Guide

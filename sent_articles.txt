@@ -197,3 +197,6 @@ Running Large Language Models Locally: A Beginner’s Guide
 AI Is Leaving the Building
 I Trained 5 Machine Learning Models on a Messy Dataset — Here’s What Happened
 Prospective evaluation of artificial intelligence integration into breast cancer screening in multiple workflow settings: the GEMINI study - Nature
+What the data says about Americans’ views of artificial intelligence - Pew Research Center
+The AI That Taught Itself: USC Researchers Show How Artificial Intelligence Can Learn What It Never Knew - USC Viterbi School of Engineering
+Pope Leo XIV’s balanced view of Artificial Intelligence - Vatican News

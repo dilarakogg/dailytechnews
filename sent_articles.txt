@@ -200,3 +200,6 @@ Prospective evaluation of artificial intelligence integration into breast cancer
 What the data says about Americans’ views of artificial intelligence - Pew Research Center
 The AI That Taught Itself: USC Researchers Show How Artificial Intelligence Can Learn What It Never Knew - USC Viterbi School of Engineering
 Pope Leo XIV’s balanced view of Artificial Intelligence - Vatican News
+How ChatGPT Memory Works: Context, Long-Term Memory, and Vector Retrieval Explained
+Understanding Graph in LangGraph: A Simple Conceptual Guide to Graph-Based AI Workflows
+Where can I find affordable AI product manager certification online?

@@ -203,3 +203,6 @@ Pope Leo XIV’s balanced view of Artificial Intelligence - Vatican News
 How ChatGPT Memory Works: Context, Long-Term Memory, and Vector Retrieval Explained
 Understanding Graph in LangGraph: A Simple Conceptual Guide to Graph-Based AI Workflows
 Where can I find affordable AI product manager certification online?
+Scientists discover AI can make humans more creative
+OpenCFO Raises $2M to Build AI Financial Operating System for Global CFOs
+S01E10 — A Decade of Misplaced Sacred Cows in Neural Networks — Residuals & Norms

@@ -212,3 +212,6 @@ Nvidia Projects $1 Trillion AI Chip Demand by 2027 as Jensen Huang Unveils Vera 
 Man, AI, and the Space Between
 Why User Impact Is the Most Important AI Evaluation Metric (And Why Most Teams Ignore It)
 Nanodiamonds and beyond: designing carbon materials with artificial intelligence at exascale - anl.gov
+A better method for identifying overconfident large language models
+I Taught My Local AI to Read Everything I’ve Ever Written
+Why Perturbation Prediction Needs Much Better Metrics

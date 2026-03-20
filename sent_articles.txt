@@ -215,3 +215,6 @@ Nanodiamonds and beyond: designing carbon materials with artificial intelligence
 A better method for identifying overconfident large language models
 I Taught My Local AI to Read Everything I’ve Ever Written
 Why Perturbation Prediction Needs Much Better Metrics
+AI in Gaming Market Size, Share | Industry Trend & Forecast 2035
+Building a Computer Vision AI Bot for Subway Surfers Using ML.NET, and OpenCVSharp (in C#)
+8 Machine Learning Insights I Wish Someone Told Me Earlier

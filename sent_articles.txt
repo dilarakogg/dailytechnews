@@ -218,3 +218,6 @@ Why Perturbation Prediction Needs Much Better Metrics
 AI in Gaming Market Size, Share | Industry Trend & Forecast 2035
 Building a Computer Vision AI Bot for Subway Surfers Using ML.NET, and OpenCVSharp (in C#)
 8 Machine Learning Insights I Wish Someone Told Me Earlier
+Can AI Copilots Improve Healthcare Access in Africa?… Part 2
+Building SmartDocAI: How I Created a 100% In-Browser Semantic Search Assistant
+80% of AI Agents Fail — Here’s the Brutal Reason No One Talks About

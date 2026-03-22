@@ -221,3 +221,6 @@ Building a Computer Vision AI Bot for Subway Surfers Using ML.NET, and OpenCVSha
 Can AI Copilots Improve Healthcare Access in Africa?… Part 2
 Building SmartDocAI: How I Created a 100% In-Browser Semantic Search Assistant
 80% of AI Agents Fail — Here’s the Brutal Reason No One Talks About
+Understanding AI as a Beginner
+Why Can AI Understand Human Language? The Answer Has Been Hiding in High School Math
+Generalist biological artificial intelligence in modeling the language of life - Nature

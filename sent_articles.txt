@@ -233,3 +233,6 @@ Machine Learning: A Non-Technical Point of View
 Montana State to host artificial intelligence symposium March 26 - Montana State University
 NAIRR at 2 years: Advancing American artificial intelligence innovation and leadership - National Science Foundation (.gov)
 Military Operational Thinking in an Age of Artificial Intelligence - War on the Rocks
+Augmenting citizen science with computer vision for fish monitoring
+90% Accuracy? Why Your ‘High-Performing’ Model Might Be Failing
+Why Machine Learning Depends on Vectors

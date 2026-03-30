@@ -245,3 +245,6 @@ Reflexion in AI: Building Self-Improving LLM Systems (With Code)
 Inside the IRS's Use of Artificial Intelligence - U.S. Government Accountability Office (.gov)
 In Summary: The White House National Legislative Policy Framework for Artificial Intelligence - National Governors Association
 AI in health care: Why artificial intelligence cannot replace human empathy - kevinmd.com
+Training Neural Networks at True 4-Bit Precision — Toward CPU-Only AI
+AI in health care: Why artificial intelligence cannot replace human empathy - KevinMD.com
+Colorado’s Artificial Intelligence Law Could Be on the Chopping Block - Littler Mendelson P.C.

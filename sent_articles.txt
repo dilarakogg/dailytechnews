@@ -281,3 +281,6 @@ What Is Artificial Intelligence Anyway? - The Nation
 Artificial Intelligence - ABC News
 The White House’s National Policy Framework for Artificial Intelligence: what it means and what comes next - Consumer Finance Monitor
 Integrating Artificial Intelligence into Simulation Design: Rebel Recruitment in Azura’s Civil War - Political Science Now
+History of Artificial Intelligence — From the Turing Test to Deep Learning and Large Language…
+What Is OpenClaw? The Open-Source AI Agent Changing Automation in 2026
+MOVYNN: Smart Logistics System Using Flask & Machine Learning

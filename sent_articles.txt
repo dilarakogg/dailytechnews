@@ -284,3 +284,6 @@ Integrating Artificial Intelligence into Simulation Design: Rebel Recruitment in
 History of Artificial Intelligence — From the Turing Test to Deep Learning and Large Language…
 What Is OpenClaw? The Open-Source AI Agent Changing Automation in 2026
 MOVYNN: Smart Logistics System Using Flask & Machine Learning
+Concepts in tech — AI, Machine Learning, Deep Learning & Data Science — untangled
+Designing a Neural Network from Scratch: Intuition, Structure, and What Actually Matters
+Outpaced by the US, China’s military places selective bets on artificial intelligence - Defense News

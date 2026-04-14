@@ -290,3 +290,6 @@ Outpaced by the US, China’s military places selective bets on artificial intel
 Design for AI: Turning Smart Technology into Human-Centered Experiences
 The Role of AI in Modern Online Food Delivery Platforms
 Artificial Intelligence - abcnews.com
+Day 33 of sharing my AI Engineering journey. Understanding How Neural Networks Think and Work
+SHAP Value: Metode interpretasi model machine learning untuk mengembangkan personalized offering
+Design of Experiments and Machine Learning (Part 1): Support Vector Machines

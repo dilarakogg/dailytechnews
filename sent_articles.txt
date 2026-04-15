@@ -293,3 +293,6 @@ Artificial Intelligence - abcnews.com
 Day 33 of sharing my AI Engineering journey. Understanding How Neural Networks Think and Work
 SHAP Value: Metode interpretasi model machine learning untuk mengembangkan personalized offering
 Design of Experiments and Machine Learning (Part 1): Support Vector Machines
+The Model Was Fine. The System Was Broken.
+How AI Agents Are Transforming Businesses
+What is LangChain? A Complete Beginner’s Guide (Part 2)

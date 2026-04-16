@@ -296,3 +296,6 @@ Design of Experiments and Machine Learning (Part 1): Support Vector Machines
 The Model Was Fine. The System Was Broken.
 How AI Agents Are Transforming Businesses
 What is LangChain? A Complete Beginner’s Guide (Part 2)
+AI-Augmented DevOps (2/5): Implementing AI-Pairs: Planning Stage
+Artificial intelligence is changing medical writing today - KevinMD.com
+Artificial Intelligence enters the HD space as a diagnostic tool - HDBuzz

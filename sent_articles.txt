@@ -312,3 +312,6 @@ The Hidden Costs of “Free” AI Tools
 Is Data Science Being Overtaken by Artificial Intelligence?
 Why Neural Networks need activation function?? — non-techie guide
 Artificial Intelligence - ABC News - Breaking News, Latest News and Videos
+Claude Opus 4.7: The Good, The Bad, and The Absurdly Token-Hungry
+RAG Is Not Enough: Why Agentic AI Needs Memory
+What is Meta’s Tribe V2 and can it predict your brain response?

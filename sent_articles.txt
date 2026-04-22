@@ -315,3 +315,6 @@ Artificial Intelligence - ABC News - Breaking News, Latest News and Videos
 Claude Opus 4.7: The Good, The Bad, and The Absurdly Token-Hungry
 RAG Is Not Enough: Why Agentic AI Needs Memory
 What is Meta’s Tribe V2 and can it predict your brain response?
+My Machine Learning Project Using SVM on the Titanic Dataset
+Image Tagging & Labeling: Powering AI Models with High-Quality Annotated Data
+DOE Explains...Artificial Intelligence - Department of Energy (.gov)

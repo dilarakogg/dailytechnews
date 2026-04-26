@@ -327,3 +327,6 @@ UNESCO launches the Observatory on Artificial Intelligence in Education for Lati
 Debugging ML Gets Weird When Time Is the Bug
 Machine Learning Intern
 End-to-End Product Sales Forecasting System using Machine Learning
+Essential Code Patterns in Generative Artificial Intelligence
+From Features to Deployment: A Simple Guide to Machine Learning Classifiers
+The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes - CancerNetwork

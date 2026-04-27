@@ -330,3 +330,8 @@ End-to-End Product Sales Forecasting System using Machine Learning
 Essential Code Patterns in Generative Artificial Intelligence
 From Features to Deployment: A Simple Guide to Machine Learning Classifiers
 The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes - CancerNetwork
+कृत्रिम बुद्धिमत्ता (Artificial Intelligence) आणि अभियांत्रिकीतील उपयोग
+प्रस्तावना :
+Artificial…
+The Future of AI Isn’t a Bigger Model. It’s a Better System
+Spam Detection with Machine Learning

@@ -338,3 +338,6 @@ Spam Detection with Machine Learning
 The Future of Artificial Intelligence and Machine Learning: Key Trends Every Developer Should Know
 How Machine Learning Is Transforming Decision-Making in Modern Businesses
 Penn State Harrisburg advances regional artificial intelligence leadership - The Pennsylvania State University
+Music Emotion Recognition using Machine Learning Techniques
+The Truth in the Trash: Quick Guide to Why Residual Analysis is crucial in Data Science
+Artificial intelligence to support cross-disciplinary climate change research - Nature

@@ -341,3 +341,6 @@ Penn State Harrisburg advances regional artificial intelligence leadership - The
 Music Emotion Recognition using Machine Learning Techniques
 The Truth in the Trash: Quick Guide to Why Residual Analysis is crucial in Data Science
 Artificial intelligence to support cross-disciplinary climate change research - Nature
+Day 15: The Ripple Effect — Why You Should Start “Building in Public” Today
+AI Insights: The Hidden Challenges of Sorting Categorical Data
+How Artificial Intelligence Is Quietly Reshaping the Way We Work — and What to Do About It

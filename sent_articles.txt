@@ -350,3 +350,6 @@ Opinion | Children are in the crosshairs of artificial intelligence. Who will we
 Memprediksi Rating Game Steam Menggunakan Machine Learning: Pendekatan Regresi Linier dan…
 Traditional Machine Learning for Tabular Data: A Practical Guide from Preprocessing to…
 It Is Human Stupidity, Not Artificial Intelligence, That Threatens Our Future - Commentary Magazine
+How Artificial Intelligence is Changing the Way We Work
+The Cybernetics of the Nomadic Mind: Dancing with Uncertainty in the Age of Artificial Intelligence
+What is AI? A Beginner-Friendly Introduction

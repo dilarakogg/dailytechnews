@@ -359,3 +359,6 @@ Artificial Intelligence in the Wellness Space - Virginia Living
 The Shift Already Happened
 Puede el Machine Learning ayudar a predecir enfermedades del corazón?
 The Future of Artificial Intelligence: What Comes Next? - Southern New Hampshire University
+The Influence of Music and Artificial Intelligence (AI)
+I Used to Lose My Best ML Models in Notebooks Then MLflow Made Everything Traceable
+5 Myths About Artificial Intelligence That Most People Still Believe (And the Truth Behind Them)

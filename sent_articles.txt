@@ -365,3 +365,6 @@ I Used to Lose My Best ML Models in Notebooks Then MLflow Made Everything Tracea
 What is Agentic AI and How It Can Transform Professional Careers in 2026
 Which companies offer recognized AI security certifications?
 From Raw Weather Data to a Robust ML Model: My End-to-End Learning Journey
+Predicting Patient Deterioration in a Nigerian A&E: A Machine Learning Proof of Concept
+From Hardcoded Rules to Meta-Learning: What Building MLCompass Taught Me About Feature Engineering
+Surveying Teachers on Artificial Intelligence - edchoice.org

@@ -368,3 +368,6 @@ From Raw Weather Data to a Robust ML Model: My End-to-End Learning Journey
 Predicting Patient Deterioration in a Nigerian A&E: A Machine Learning Proof of Concept
 From Hardcoded Rules to Meta-Learning: What Building MLCompass Taught Me About Feature Engineering
 Surveying Teachers on Artificial Intelligence - edchoice.org
+What Is Technical Debt? A Practical Guide for Software and Machine Learning Engineers
+AI vs. Machine Learning vs. Deep Learning — Finally Explained Clearly
+Artificial intelligence revives a cold-war-style dilemma - The Economist

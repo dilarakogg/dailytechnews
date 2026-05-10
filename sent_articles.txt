@@ -371,3 +371,6 @@ Surveying Teachers on Artificial Intelligence - edchoice.org
 What Is Technical Debt? A Practical Guide for Software and Machine Learning Engineers
 AI vs. Machine Learning vs. Deep Learning — Finally Explained Clearly
 Artificial intelligence revives a cold-war-style dilemma - The Economist
+Introduction to CLIP: Contrastive Language-Image Pretraining
+Vasant Honavar named vice provost for artificial intelligence at Penn State - The Pennsylvania State University
+Introducing agent quality optimization in AgentCore, now in preview | Artificial Intelligence - Amazon Web Services (AWS)

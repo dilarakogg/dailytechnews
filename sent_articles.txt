@@ -374,3 +374,6 @@ Artificial intelligence revives a cold-war-style dilemma - The Economist
 Introduction to CLIP: Contrastive Language-Image Pretraining
 Vasant Honavar named vice provost for artificial intelligence at Penn State - The Pennsylvania State University
 Introducing agent quality optimization in AgentCore, now in preview | Artificial Intelligence - Amazon Web Services (AWS)
+Chico State’s 2026-27 Book in Common to Tackle Artificial Intelligence - Chico State Today
+Making Artificial Intelligence Work for Journalism - National Press Foundation
+Exploring the prospects of artificial intelligence in transforming dental care for special needs groups: mapping the current evidence - Nature

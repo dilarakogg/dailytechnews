@@ -377,3 +377,6 @@ Introducing agent quality optimization in AgentCore, now in preview | Artificial
 Chico State’s 2026-27 Book in Common to Tackle Artificial Intelligence - Chico State Today
 Making Artificial Intelligence Work for Journalism - National Press Foundation
 Exploring the prospects of artificial intelligence in transforming dental care for special needs groups: mapping the current evidence - Nature
+Why Immersive Digital Ecosystems Could Shape the Future of Online Experience
+Fine-tuning a VLM is mostly not a training problem. Here are the four decisions that mattered more.
+8 Terms in Computer Vision Everyone Must Know

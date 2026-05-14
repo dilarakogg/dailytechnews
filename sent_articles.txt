@@ -383,3 +383,6 @@ Fine-tuning a VLM is mostly not a training problem. Here are the four decisions 
 Most Businesses Want AI — But Their Data Strategy Is the Missing Link
 Cara Membedakan Machine Learning dan Data Analytics dari Proses Kerjanya
 Cara Kerja Deep Q Network dalam Pengambilan Keputusan AI
+Artificial Intelligence Guidelines for Improving Health and Vitality
+How Large Language Models Actually Work: A Jargon-Free Explanation for Curious Minds
+Transforming artificial intelligence into artificial wisdom - Nature

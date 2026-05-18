@@ -395,3 +395,6 @@ Build Once, Sell Often: My Journey to Earning USD with a Single Chatbot
 A generative artificial intelligence approach for peptide antibiotic optimization - Nature
 Pope approves creation of Interdicasterial Commission on Artificial Intelligence - Vatican News
 What’s Working: Distributors trade tips on artificial intelligence during Denver event - The Colorado Sun
+Understanding Linear Regression in Machine Learning — A Beginner Friendly Guide with Python Code
+LLMs Can Talk. World Models May Be How AI Starts to Understand.
+20 Days of Artificial Intelligence — Day 19 of 20 — AI Agents

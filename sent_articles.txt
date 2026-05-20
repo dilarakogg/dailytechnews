@@ -401,3 +401,6 @@ LLMs Can Talk. World Models May Be How AI Starts to Understand.
 Artificial Intelligence Certification Course: Skill Booster or Just Another Expensive Trend?
 Top 12 Machine Learning Algorithms You Must Know in 2026
 8 Industries in Kerala Being Transformed by AI
+Building AI models that understand chemical principles
+8 Claude AI Tricks ChatGPT Users Wish They Had
+AI/ML Under the Hood — Part 20: The Magic Inside the Neural Network Hidden Layers

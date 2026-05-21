@@ -404,3 +404,6 @@ Top 12 Machine Learning Algorithms You Must Know in 2026
 Building AI models that understand chemical principles
 8 Claude AI Tricks ChatGPT Users Wish They Had
 AI/ML Under the Hood — Part 20: The Magic Inside the Neural Network Hidden Layers
+Ridisegnare l’apprendimento linguistico nell’era dei Large Language Models: l’Insegnante come…
+Who Owns Artificial Intelligence: Shocking Facts About AI Power and Ownership
+Training a Deep Learning Model for Seismic Facies Clustering & Anomaly Scoring

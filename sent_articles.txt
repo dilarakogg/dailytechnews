@@ -407,3 +407,6 @@ AI/ML Under the Hood — Part 20: The Magic Inside the Neural Network Hidden
 Ridisegnare l’apprendimento linguistico nell’era dei Large Language Models: l’Insegnante come…
 Who Owns Artificial Intelligence: Shocking Facts About AI Power and Ownership
 Training a Deep Learning Model for Seismic Facies Clustering & Anomaly Scoring
+The ancient art of business writing.
+Dari Data Mentah ke Model Cerdas: Panduan Alur Kerja Machine Learning untuk Pemula
+Overfitting: Musuh Tersembunyi Model Machine Learning dan Cara Mengalahkannya

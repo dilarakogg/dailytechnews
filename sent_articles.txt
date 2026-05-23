@@ -410,3 +410,6 @@ Training a Deep Learning Model for Seismic Facies Clustering & Anomaly Scoring
 The ancient art of business writing.
 Dari Data Mentah ke Model Cerdas: Panduan Alur Kerja Machine Learning untuk Pemula
 Overfitting: Musuh Tersembunyi Model Machine Learning dan Cara Mengalahkannya
+When Space Begins to See: WiFi, AI, and the New Form of Invisible Surveillance
+10 Must-Know Interview Questions on Deep Learning Models
+Hyperparameter Tuning using GridSearchCV and RandomizedSearchCV

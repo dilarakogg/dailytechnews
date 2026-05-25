@@ -416,3 +416,6 @@ Hyperparameter Tuning using GridSearchCV and RandomizedSearchCV
 The Illusion of Progress: A Critical Analysis of Recent AI Updates and the Political Economy of…
 Beyond Pattern Recognition: Abstract Reasoning in Machine Learning for iOS
 SVM : 40 must visit Interview Questions (Part 2)
+My Experience in Applied NLP & Language Intelligence — From Text Analytics to Generative AI
+From Raw Data to Production ML Systems: The Complete Workflow
+How AI Is Changing Everyday Work

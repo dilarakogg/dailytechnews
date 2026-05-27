@@ -419,3 +419,6 @@ SVM : 40 must visit Interview Questions (Part 2)
 My Experience in Applied NLP & Language Intelligence — From Text Analytics to Generative AI
 From Raw Data to Production ML Systems: The Complete Workflow
 How AI Is Changing Everyday Work
+Why AI Architecture Is Becoming a Boardroom Discussion
+The Future of Sports Tech in India: AI and Real-Time Runner Analytics
+Understanding Data Preprocessing: Encoding and Feature Scaling in Machine Learning

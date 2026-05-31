@@ -431,3 +431,6 @@ What Is Enterprise AI Transformation? The Complete 2026 Guide
 Artificial Intelligence in Sports.
 The Complete Framework and Workflow of Machine Learning
 Machine Learning on Options Data: An Honest Quant ML Guide
+Understanding Image Data Preprocessing in Machine Learning & Deep Learning
+New AP Stylebook features expanded artificial intelligence chapter - ap.org
+Improving multimodal wearable sensing for healthcare with artificial intelligence - Nature

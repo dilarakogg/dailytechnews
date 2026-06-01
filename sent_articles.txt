@@ -434,3 +434,7 @@ Machine Learning on Options Data: An Honest Quant ML Guide
 Understanding Image Data Preprocessing in Machine Learning & Deep Learning
 New AP Stylebook features expanded artificial intelligence chapter - ap.org
 Improving multimodal wearable sensing for healthcare with artificial intelligence - Nature
+The Rise of Generative AI in Data Science: Opportunities, Risks, and the Future of Analytics
+Why AI Agents Depend on Blockchain Data Provenance
+Target Audience
+Text is the New Weight: How SkillOpt Brings Deep Learning Discipline to Prompt Optimization

@@ -438,3 +438,6 @@ The Rise of Generative AI in Data Science: Opportunities, Risks, and the Future 
 Why AI Agents Depend on Blockchain Data Provenance
 Target Audience
 Text is the New Weight: How SkillOpt Brings Deep Learning Discipline to Prompt Optimization
+9 Signs Your Machine Learning Setup Is Holding You Back (And Costing You Hours Every Week)
+When AI Misses the Moment
+Artificial Intelligence (AI) for Manufacturing Workshop - National Institute of Standards and Technology (.gov)

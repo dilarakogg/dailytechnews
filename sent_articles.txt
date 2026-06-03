@@ -441,3 +441,6 @@ Text is the New Weight: How SkillOpt Brings Deep Learning Discipline to Prompt O
 9 Signs Your Machine Learning Setup Is Holding You Back (And Costing You Hours Every Week)
 When AI Misses the Moment
 Artificial Intelligence (AI) for Manufacturing Workshop - National Institute of Standards and Technology (.gov)
+The Challenge of Vanishing/Exploding Gradients in Deep Neural Networks
+I Audited 50+ Beginner Machine Learning Models. Here Is the #1 Error Killing Their Accuracy
+Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready? - Honolulu Civil Beat

@@ -444,3 +444,6 @@ Artificial Intelligence (AI) for Manufacturing Workshop - National Institute of 
 The Challenge of Vanishing/Exploding Gradients in Deep Neural Networks
 I Audited 50+ Beginner Machine Learning Models. Here Is the #1 Error Killing Their Accuracy
 Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready? - Honolulu Civil Beat
+By 2030, a Billion People Will Use AI Every Day. Here’s What That Actually Costs.
+How AI Is Changing Personal Finance in 2026: What Every Canadian Should Know
+No, Artificial Intelligence Is Not Conscious - The Atlantic

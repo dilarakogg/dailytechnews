@@ -450,3 +450,6 @@ No, Artificial Intelligence Is Not Conscious - The Atlantic
 How to Build an AI-Powered Dating App in 2026: Features, Cost & Tech Stack
 Is 94% Accuracy Really a Success?
 Everyone Wants an AI Job in 2026 — Almost Nobody Is Following This Roadmap
+Deploying a Machine Learning Standalone Application using Streamlit
+America Needs One National Framework for Artificial Intelligence - Bloomberg Law News
+Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications - Nature

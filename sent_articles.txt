@@ -465,3 +465,6 @@ Machine Learning Has Solved Dreaming. Or Has It?
 Hyperparameter Tuning using GridSearchCV and Randomized SearchCV: Optimizing Machine Learning…
 I Built an AI System That Turns Raw Ideas Into Finished Digital Products
 Evaluation Metrics for Regression and Classification Models
+Google’s Massive AI Infrastructure Agreement With SpaceX Highlights the Future of Computing
+Meta’s First AI Data Center Partnership in India Signals a New Phase for Global AI Infrastructure
+Opinion | Human intelligence will win out over artificial intelligence - The Washington Post

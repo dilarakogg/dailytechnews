@@ -468,3 +468,6 @@ Evaluation Metrics for Regression and Classification Models
 Google’s Massive AI Infrastructure Agreement With SpaceX Highlights the Future of Computing
 Meta’s First AI Data Center Partnership in India Signals a New Phase for Global AI Infrastructure
 Opinion | Human intelligence will win out over artificial intelligence - The Washington Post
+AI Jailbreak Debates Highlight the Growing Need for Robust AI Security Governance
+Why Investors Are Betting Big on AI-Powered Call Screening in India
+Skills Needed For AI Jobs

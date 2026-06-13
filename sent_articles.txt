@@ -471,3 +471,6 @@ Opinion | Human intelligence will win out over artificial intelligence - The Was
 AI Jailbreak Debates Highlight the Growing Need for Robust AI Security Governance
 Why Investors Are Betting Big on AI-Powered Call Screening in India
 Skills Needed For AI Jobs
+Understanding Modern CNN Design: Comparing CNN, ResNet, DenseNet, and DLA
+Why Evaluation Metrics Are More Important Than You Think: Understanding How Machine Learning Models…
+How artificial intelligence got better at building itself - The Economist

@@ -474,3 +474,7 @@ Skills Needed For AI Jobs
 Understanding Modern CNN Design: Comparing CNN, ResNet, DenseNet, and DLA
 Why Evaluation Metrics Are More Important Than You Think: Understanding How Machine Learning Models…
 How artificial intelligence got better at building itself - The Economist
+Feature Selection
+Techniques in Machine Learning
+7 Ways to Choose the Right AI Tool for Each Specific Task Without Wasting Time Testing
+Why Most CS Students Learn AI Wrong

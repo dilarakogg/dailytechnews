@@ -481,3 +481,6 @@ Why Most CS Students Learn AI Wrong
 Scientists Can Now See Lung Cancer Risk 5 Years Before Diagnosis. That’s Stunning.
 The Conversation Around Tabular Data Is Back. The Tables Are Still Messy.
 Building a Climate-Resilient Tomorrow: How I Engineered an IoT & Stacked-LSTM Flood Forecasting…
+TAPe+ML v2: How we make a single recognition model for any computer vision task
+Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report - Financial Stability Board
+Bridging three-dimensional molecular structures and artificial intelligence with a conformation description language - Nature

@@ -484,3 +484,6 @@ Building a Climate-Resilient Tomorrow: How I Engineered an IoT & Stacked-LSTM Fl
 TAPe+ML v2: How we make a single recognition model for any computer vision task
 Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report - Financial Stability Board
 Bridging three-dimensional molecular structures and artificial intelligence with a conformation description language - Nature
+Introduction to Deep Learning and Neural Networks
+How to Start a Career in Artificial Intelligence with Zero Experience | Asian Technology Hub
+The Seatbelts of Artificial Intelligence

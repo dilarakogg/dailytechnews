@@ -490,3 +490,6 @@ The Seatbelts of Artificial Intelligence
 Train Neural Networks without Draining your Pocket: Enable XLA compilation in TensorFlow training…
 KV Cache in LLMs: From Zero to Production
 How Machine Learning Improves Business Operations
+What is Artificial Intelligence and How It Is Changing Our Daily Life
+Comparing Two Azure Machine Learning Models Using the Bank Marketing Dataset
+AI Adoption in 2026:Executive whitepaper on AI

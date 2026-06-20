@@ -493,3 +493,6 @@ How Machine Learning Improves Business Operations
 What is Artificial Intelligence and How It Is Changing Our Daily Life
 Comparing Two Azure Machine Learning Models Using the Bank Marketing Dataset
 AI Adoption in 2026:Executive whitepaper on AI
+From Pipelines to Prompts: How I Discovered the Power of GenAI After Learning Traditional ML
+Machine Learning: The Technology Behind Smart Systems
+Towards autonomous medical artificial intelligence agents - Nature

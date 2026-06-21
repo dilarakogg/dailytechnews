@@ -496,3 +496,6 @@ AI Adoption in 2026:Executive whitepaper on AI
 From Pipelines to Prompts: How I Discovered the Power of GenAI After Learning Traditional ML
 Machine Learning: The Technology Behind Smart Systems
 Towards autonomous medical artificial intelligence agents - Nature
+7 Machine Learning Books That’ll Make You Dangerously Smart (Even If You Hate Math)
+A Primer on the Great American Artificial Intelligence Act - Cato Institute
+New artificial intelligence minor launches this fall - Virginia Tech News

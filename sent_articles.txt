@@ -499,3 +499,6 @@ Towards autonomous medical artificial intelligence agents - Nature
 7 Machine Learning Books That’ll Make You Dangerously Smart (Even If You Hate Math)
 A Primer on the Great American Artificial Intelligence Act - Cato Institute
 New artificial intelligence minor launches this fall - Virginia Tech News
+Machine Learning for Beginners (Part-IV): Regression Algorithms in SML
+Introduction to Machine Learning: Types, Applications, and Real-World Examples
+What is Deep Learning? The Intuitive Guide to AI’s Most Powerful Tool

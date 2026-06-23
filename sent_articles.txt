@@ -502,3 +502,6 @@ New artificial intelligence minor launches this fall - Virginia Tech News
 Machine Learning for Beginners (Part-IV): Regression Algorithms in SML
 Introduction to Machine Learning: Types, Applications, and Real-World Examples
 What is Deep Learning? The Intuitive Guide to AI’s Most Powerful Tool
+Machine Learning in the Humanities and Social Sciences: Why It Matters and How to Use It
+AI Is Changing Fast — Here’s Everything That Just Happened
+A quantum mechanics approach to artificial intelligence can improve cancer outcomes - The University of Utah

@@ -505,3 +505,6 @@ What is Deep Learning? The Intuitive Guide to AI’s Most Powerful Tool
 Machine Learning in the Humanities and Social Sciences: Why It Matters and How to Use It
 AI Is Changing Fast — Here’s Everything That Just Happened
 A quantum mechanics approach to artificial intelligence can improve cancer outcomes - The University of Utah
+How Smart Are Small “Large Language Models” (LLMs) or SLM?
+The Hidden Layer of AI Progress Most People Never See
+How AI Works: Explained in Simple Terms (A Beginner's Guide to Artificial Intelligence)

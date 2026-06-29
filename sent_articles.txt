@@ -520,3 +520,6 @@ What is Artificial Intelligence (AI)? - Databricks
 AI for Beginners: The Easiest Way to Understand Artificial Intelligence (Without Feeling…
 Generative artificial intelligence creates delicious, sustainable, and nutritious burgers | npj Science of Food - Nature
 Police use of artificial intelligence grows as rules lag behind - Stateline
+Python for Data Science — Mean, Median, Mode, and When They Mislead
+More than half of Georgia teachers now use artificial intelligence to prepare for class - Georgia Recorder
+Regulating artificial intelligence will be ‘colossal task’ for Alabama lawmakers - Alabama Reflector

@@ -526,3 +526,6 @@ Regulating artificial intelligence will be ‘colossal task’ for Alabama lawma
 Top AI and Machine Learning Trends Every Business Should Watch in 2026
 Artificial Intelligence Will Not Save the SDGs on Its Own — Policy Has to Catch Up First - United Nations University
 Research at Middlebury College reveals nuanced story about artificial intelligence use - VTDigger
+How Advids Crafted a Visual Metaphor to Explain SandboxAQ’s Complex Graph Neural Networks
+The Deobfuscation Tax Just Went to Zero: Rebuilding Anti-Bot Defenses for the LLM Era
+Algo(34/40)Style, Efficiency & Policy: The Optimization of AI (2016–2017)

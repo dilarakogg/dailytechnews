@@ -529,3 +529,6 @@ Research at Middlebury College reveals nuanced story about artificial intelligen
 How Advids Crafted a Visual Metaphor to Explain SandboxAQ’s Complex Graph Neural Networks
 The Deobfuscation Tax Just Went to Zero: Rebuilding Anti-Bot Defenses for the LLM Era
 Algo(34/40)Style, Efficiency & Policy: The Optimization of AI (2016–2017)
+AI in Economics: Algorithmic Trading
+Why Data Engineers Are Using SQL to Build Machine Learning Models
+The future is now: College of Computing & Artificial Intelligence officially launches - UW–Madison News

@@ -532,3 +532,6 @@ Algo(34/40)Style, Efficiency & Policy: The Optimization of AI (2016–2017)
 AI in Economics: Algorithmic Trading
 Why Data Engineers Are Using SQL to Build Machine Learning Models
 The future is now: College of Computing & Artificial Intelligence officially launches - UW–Madison News
+What is Artificial Intelligence (AI), and why is it becoming essential in 2026?
+100 Trees vs. One Tree That Never Stops Learning, Random Forest vs. XGBoost
+An Optimist’s Account of Artificial Intelligence - Lawfare

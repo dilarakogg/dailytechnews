@@ -535,3 +535,6 @@ The future is now: College of Computing & Artificial Intelligence officially lau
 What is Artificial Intelligence (AI), and why is it becoming essential in 2026?
 100 Trees vs. One Tree That Never Stops Learning, Random Forest vs. XGBoost
 An Optimist’s Account of Artificial Intelligence - Lawfare
+Artificial Intelligence After 12th
+Inference Optimization in Large Language Models
+Artificial intelligence could usher in a new era of vaccine development - CIDRAP

@@ -544,3 +544,6 @@ Artificial intelligence for food innovation - Nature
 The Non-Technical Guide to Machine Learning in 2026
 The AI World May Have Found a Challenger to Transformers: Meet the Dragon Hatchling
 UN Artificial Intelligence Panel Launches Report Ahead of Global Conference - ipsnews.net
+Text Classification Pipelines: Direct, Embedding-Based, and Prompted Generative Workflows
+Pritzker signs new Illinois law creating accountability for artificial intelligence developers - CBS News
+1 Artificial Intelligence Stock You Can Buy and Hold for the Next Decade - Yahoo Finance

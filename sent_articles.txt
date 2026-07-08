@@ -547,3 +547,6 @@ UN Artificial Intelligence Panel Launches Report Ahead of Global Conference - ip
 Text Classification Pipelines: Direct, Embedding-Based, and Prompted Generative Workflows
 Pritzker signs new Illinois law creating accountability for artificial intelligence developers - CBS News
 1 Artificial Intelligence Stock You Can Buy and Hold for the Next Decade - Yahoo Finance
+Jesse Thaler named director of the Laboratory for Nuclear Science
+Applying Artificial Intelligence and machine learning in precision nutrition - Nature
+Opening remarks on sound practices for artificial intelligence - Financial Stability Board

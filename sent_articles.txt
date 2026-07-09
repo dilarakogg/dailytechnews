@@ -550,3 +550,6 @@ Pritzker signs new Illinois law creating accountability for artificial intellige
 Jesse Thaler named director of the Laboratory for Nuclear Science
 Applying Artificial Intelligence and machine learning in precision nutrition - Nature
 Opening remarks on sound practices for artificial intelligence - Financial Stability Board
+Architecting Scalable Machine Learning Pipelines on Kubernetes: An Argo Workflows Guide
+Model Inversion and Data Privacy Exfiltration
+The Transatlantic Artificial Intelligence Calculus - RAND

@@ -553,3 +553,6 @@ Opening remarks on sound practices for artificial intelligence - Financial Stabi
 Architecting Scalable Machine Learning Pipelines on Kubernetes: An Argo Workflows Guide
 Model Inversion and Data Privacy Exfiltration
 The Transatlantic Artificial Intelligence Calculus - RAND
+Understanding SAP Joule: Features, Uses, and Business Value
+Understanding the Growing Role of AI Consulting Companies in Business Innovation
+Data Quality: The Most Underrated Factor in AI Success

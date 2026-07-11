@@ -556,3 +556,6 @@ The Transatlantic Artificial Intelligence Calculus - RAND
 Understanding SAP Joule: Features, Uses, and Business Value
 Understanding the Growing Role of AI Consulting Companies in Business Innovation
 Data Quality: The Most Underrated Factor in AI Success
+The AI Advantage: 5 Tools to Streamline Your Workflow and Scale Your Business
+The Ethics of Artificial Intelligence: Who Decides What’s Right?
+Apa itu Machine Learning?

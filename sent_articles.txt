@@ -559,3 +559,6 @@ Data Quality: The Most Underrated Factor in AI Success
 The AI Advantage: 5 Tools to Streamline Your Workflow and Scale Your Business
 The Ethics of Artificial Intelligence: Who Decides What’s Right?
 Apa itu Machine Learning?
+Discover AI: A Beginner’s Journey into Artificial Intelligence
+AI vs Human Marketers: Who Wins in 2026?
+From AlphaFold to BioNeMo: AI Models Reshaping Drug Discovery

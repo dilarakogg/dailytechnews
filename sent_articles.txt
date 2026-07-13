@@ -562,3 +562,6 @@ Apa itu Machine Learning?
 Discover AI: A Beginner’s Journey into Artificial Intelligence
 AI vs Human Marketers: Who Wins in 2026?
 From AlphaFold to BioNeMo: AI Models Reshaping Drug Discovery
+Explainable AI Beyond the Black Box: Transforming Agriculture, Water Management and Smart…
+How Real Estate Agents Can Use AI to Save Time and Work Smarter
+LoRA vs QLoRA vs Full Fine-Tuning: Which One Should You Actually Use?

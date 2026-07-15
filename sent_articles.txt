@@ -568,3 +568,6 @@ LoRA vs QLoRA vs Full Fine-Tuning: Which One Should You Actually Use?
 Alan Turing's biggest AI assumption may have been wrong
 How Artificial Intelligence Is Transforming Email Security
 How will artificial intelligence affect our economy in the future?
+Why Artificial Intelligence Is Becoming a Driving Force Behind Digital Innovation
+Discovering New Materials for Energy Storage Using Machine Learning
+Sometimes the Best AI Doesn’t Feel Like AI

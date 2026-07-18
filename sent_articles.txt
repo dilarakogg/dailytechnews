@@ -577,3 +577,7 @@ The Case for Nationalizing Artificial Intelligence - Jacobin
 Artificial Intelligence Will Write the Pitch. People Will Win the Client
 ​The AI Paradigm: Is Artificial Intelligence the Third Great Economic Revolution?
 AI Is Changing Higher Education Faster Than Universities Expected Are Students Ready?
+7 Python + LLM Scripts That Replaced My Entire Research Assistant
+Building Smarter Risk Intelligence: Insights from Nyuway
+Why Trusting AI Without Testing Is…
+Feature Scaling in Machine Learning: Why Your Features Need to Speak the Same Language

@@ -584,3 +584,6 @@ Feature Scaling in Machine Learning: Why Your Features Need to Speak the Same La
 ThorfinnYOLO: A hundred neural networks weekend
 The Navy’s Strategy to Weaponize Data and Artificial Intelligence - USNI News
 What Marx Can Tell Us About Artificial Intelligence - Jacobin
+I Built Adaptive Noise Cancellation in MATLAB Then Realized It Was Online Regression
+CNNs, Explained Like You’ve Never Heard of Machine Learning
+Why Machine Learning Belongs in the Future of Web Application Security

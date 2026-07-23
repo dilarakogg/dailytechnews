@@ -593,3 +593,6 @@ When Tradition Meets Artificial Intelligence: The Future of Japanese Work Cultur
 AI for Customer Service: Benefits, Use Cases & Trends (2026 Guide)
 AI Agents for Sales Operations: Practical Benefits Businesses Are Seeing
 When Knowledge Learns to Think: The Business Shift Driven by Large Language Models
+Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83
+Preventing LLM Prompt Injection Attacks: The AI Security Challenge Every Developer Should…
+Introduction to Machine Learning: A Beginner’s Guide to ML, Deep Learning, and Generative AI

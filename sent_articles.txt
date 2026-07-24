@@ -596,3 +596,6 @@ When Knowledge Learns to Think: The Business Shift Driven by Large Language Mode
 Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83
 Preventing LLM Prompt Injection Attacks: The AI Security Challenge Every Developer Should…
 Introduction to Machine Learning: A Beginner’s Guide to ML, Deep Learning, and Generative AI
+Top 10 Machine Learning & Deep Learning Companies Transforming Enterprises in 2026
+How much energy do data centers and artificial intelligence use? - Our World in Data
+BPI and IIB Comment on Responsible Adoption of Artificial Intelligence - Bank Policy Institute

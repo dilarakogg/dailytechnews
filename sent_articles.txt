@@ -599,3 +599,6 @@ Introduction to Machine Learning: A Beginner’s Guide to ML, Deep Learning, and
 Top 10 Machine Learning & Deep Learning Companies Transforming Enterprises in 2026
 How much energy do data centers and artificial intelligence use? - Our World in Data
 BPI and IIB Comment on Responsible Adoption of Artificial Intelligence - Bank Policy Institute
+Probability & Distributions: The Complete Math-to-Code Guide for Machine Learning
+Obernolte-Trahan artificial intelligence bill introduced in House - Politico
+Manhattan University Announces Minor in Artificial Intelligence - Manhattan University

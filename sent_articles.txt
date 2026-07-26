@@ -602,3 +602,6 @@ BPI and IIB Comment on Responsible Adoption of Artificial Intelligence - Bank Po
 Probability & Distributions: The Complete Math-to-Code Guide for Machine Learning
 Obernolte-Trahan artificial intelligence bill introduced in House - Politico
 Manhattan University Announces Minor in Artificial Intelligence - Manhattan University
+AI vs Machine Learning vs Deep Learning: The Simple Version
+Artificial Intelligence and law: What legal teams need to know - Thomson Reuters Legal Solutions
+China’s New AI Club: The World Artificial Intelligence Cooperation Organization - The Diplomat – Asia-Pacific

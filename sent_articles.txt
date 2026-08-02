@@ -623,3 +623,6 @@ How I Built an ESP32-Based Smart Parking Assistant Using Raspberry Pi Computer V
 Advanced Missing Data Imputation: Random Sample Imputation, Missing Indicators & Automatic Strategy…
 Enhancing accuracy of large language models through prompt engineering
 Adoption of artificial intelligence outpaces training in field epidemiology programs, new survey finds - CIDRAP
+Predicting Healthcare Insurance charges using Machine Learning
+Chapter 1 — Linear Regression
+Artificial intelligence for representing and characterizing quantum systems - Nature

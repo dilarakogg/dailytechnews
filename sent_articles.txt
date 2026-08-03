@@ -626,3 +626,6 @@ Adoption of artificial intelligence outpaces training in field epidemiology prog
 Predicting Healthcare Insurance charges using Machine Learning
 Chapter 1 — Linear Regression
 Artificial intelligence for representing and characterizing quantum systems - Nature
+How AI Is Making Global Telemedicine More Secure, Affordable, and Sustainable
+Synthetic Trust: Engineering Human Trust at Industrial Scale with Artificial Intelligence
+From Data to Models: A Beginner’s Machine Learning Journey

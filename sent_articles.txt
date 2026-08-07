@@ -638,3 +638,6 @@ White House finalizes artificial intelligence oversight framework - Politico
 Machine learning predictive analiWhy Your Excel Forecasts Keep Getting It Wrong (And What Actually…
 Stop Rebuilding the Same Features for Every Model
 All academic departments at Miami to integrate artificial intelligence into the curriculum by 2027-2028 - Miami University
+Enterprise AI Governance: A Practical Framework for Building Secure, Responsible, and Scalable AI…
+Can AI Discover New Physics? The Surprising Role of Artificial Intelligence in Science
+7 Hidden Costs of AI Software Development Most Businesses Overlook

@@ -644,3 +644,6 @@ Can AI Discover New Physics? The Surprising Role of Artificial Intelligence in S
 How Machine Learning Helps Companies Understand and Keep Their Customers
 How Are Large Language Models Trained at Scale?
 Beyond Endpoint Guesswork: Hybrid Level 2 Intelligence for BOF / LD Steelmaking
+The Curse of Dimensionality: When More Features Make Machine Learning Harder
+TALKING TO MACHINES · AN INTRODUCTORY SERIES ON NATURAL LANGUAGE PROCESSING.
+The Math of Logistic Regression: The Complete Math-to-Code for Machine Learning

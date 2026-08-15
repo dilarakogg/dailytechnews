@@ -662,3 +662,6 @@ Artificial intelligence in drug discovery — what it is, where we stand and the
 Accelerating Gen AI with Cloud Run: My Journey in APAC Gen AI Academy Cohort 3
 The Math of SVMs: The Complete Math-to-Code for Machine Learning
 Why Class Imbalance Breaks Machine Learning Models (And How to Fix It)
+If AI Had Full Autonomy, What Would It Do?
+Product Sales Forecasting Using Machine Learning, Tableau and FastAPI
+Mastering Machine Learning: From Fundamentals to Advanced Algorithms (Part- II)

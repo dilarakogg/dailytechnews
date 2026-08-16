@@ -665,3 +665,6 @@ Why Class Imbalance Breaks Machine Learning Models (And How to Fix It)
 If AI Had Full Autonomy, What Would It Do?
 Product Sales Forecasting Using Machine Learning, Tableau and FastAPI
 Mastering Machine Learning: From Fundamentals to Advanced Algorithms (Part- II)
+Building an AI-Powered Football Transfer Intelligence Platform
+I Did A Small Survey At Work. Most People Are Still Not Running Local AI.
+Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective - War on the Rocks

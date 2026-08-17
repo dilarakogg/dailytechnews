@@ -668,3 +668,6 @@ Mastering Machine Learning: From Fundamentals to Advanced Algorithms (Part- II)
 Building an AI-Powered Football Transfer Intelligence Platform
 I Did A Small Survey At Work. Most People Are Still Not Running Local AI.
 Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective - War on the Rocks
+The Next Billion-Dollar AI Role Is the Forward Deployed Engineer: Everything You Need to Know
+Gradient Descent in Machine Learning: How Models Learn One Step at a Time
+The batch vs. real-time prediction decision I had to make and how I reasoned through it

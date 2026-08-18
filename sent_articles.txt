@@ -671,3 +671,6 @@ Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear 
 The Next Billion-Dollar AI Role Is the Forward Deployed Engineer: Everything You Need to Know
 Gradient Descent in Machine Learning: How Models Learn One Step at a Time
 The batch vs. real-time prediction decision I had to make and how I reasoned through it
+What Machine Learning Taught Me About Life #2: Regularization
+Machine Learning vs Artificial Intelligence: Key Differences, Use Cases, and Business Impact
+Diabetes Prediction Using SVM: My Machine Learning Project

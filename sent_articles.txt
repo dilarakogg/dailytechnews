@@ -677,3 +677,6 @@ Diabetes Prediction Using SVM: My Machine Learning Project
 Predicting Employee Attrition Before It Happens: An End-to-End Machine Learning Project
 Strengthen Your AI Operations Skills with MLOps Certification
 Watch: Fields Medalist Terence Tao on Artificial Intelligence and Why We Do Math - Simons Foundation
+Day 73: Agentic AI — Moving from AI That Answers to AI That Acts
+Co-packaged optics for high-performance computing and artificial intelligence - Nature
+Watch: Fields Medalist Terence Tao on Artificial Intelligence and Why We Do Math - simonsfoundation.org

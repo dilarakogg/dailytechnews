@@ -680,3 +680,6 @@ Watch: Fields Medalist Terence Tao on Artificial Intelligence and Why We Do Math
 Day 73: Agentic AI — Moving from AI That Answers to AI That Acts
 Co-packaged optics for high-performance computing and artificial intelligence - Nature
 Watch: Fields Medalist Terence Tao on Artificial Intelligence and Why We Do Math - simonsfoundation.org
+You’re Not Really Talking to ChatGPT — You’re Talking in Tokens
+Lasso Regression in Machine Learning: How Regularization Can Also Select Features
+Machine Learning vs Generative AI: What Should You Learn First in 2026?

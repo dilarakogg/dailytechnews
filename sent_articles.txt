@@ -683,3 +683,6 @@ Watch: Fields Medalist Terence Tao on Artificial Intelligence and Why We Do Math
 You’re Not Really Talking to ChatGPT — You’re Talking in Tokens
 Lasso Regression in Machine Learning: How Regularization Can Also Select Features
 Machine Learning vs Generative AI: What Should You Learn First in 2026?
+How Does AI Work? A Simple Guide for Beginners
+Seeking Public Comment! Using Artificial Intelligence for Cybersecurity Framework 2.0 Analysis and Reporting - National Institute of Standards and Technology (.gov)
+The New Frontier of Emotional Support: Artificial Intelligence - UC San Diego Today

@@ -686,3 +686,6 @@ Machine Learning vs Generative AI: What Should You Learn First in 2026?
 How Does AI Work? A Simple Guide for Beginners
 Seeking Public Comment! Using Artificial Intelligence for Cybersecurity Framework 2.0 Analysis and Reporting - National Institute of Standards and Technology (.gov)
 The New Frontier of Emotional Support: Artificial Intelligence - UC San Diego Today
+The hardware myth: you don’t need an expensive laptop or GPU to start learning ML
+How AI Will Change the Future: 7 Ways Artificial Intelligence Will Transform Our World
+while continuing my breast cancer deep learning project, today i experimented with activation…

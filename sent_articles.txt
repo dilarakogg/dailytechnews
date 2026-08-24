@@ -689,3 +689,6 @@ The New Frontier of Emotional Support: Artificial Intelligence - UC San Diego To
 The hardware myth: you don’t need an expensive laptop or GPU to start learning ML
 How AI Will Change the Future: 7 Ways Artificial Intelligence Will Transform Our World
 while continuing my breast cancer deep learning project, today i experimented with activation…
+A Complete Journey Through Natural Language Processing (NLP)
+From Web Development to Machine Learning: My Journey into AI
+5 Contoh Masalah Bisnis yang Bisa Diselesaikan dengan Machine Learning

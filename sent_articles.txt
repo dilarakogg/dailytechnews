@@ -710,3 +710,6 @@ Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in
 Artificial Intelligence (AI)
 Building a Serverless Audio Transcription Pipeline with AWS Transcribe, Lambda & S3 — Part 2…
 What Is Deep Learning? A Beginner’s Guide with Real-Life Examples
+Patient factors in medical artificial intelligence: a systematic review - Nature
+Regulating Agentic Artificial Intelligence - The Regulatory Review
+Reviewing Artificial Intelligence in Materials Discovery - Spectroscopy Online

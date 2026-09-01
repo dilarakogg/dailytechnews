@@ -713,3 +713,6 @@ What Is Deep Learning? A Beginner’s Guide with Real-Life Examples
 Patient factors in medical artificial intelligence: a systematic review - Nature
 Regulating Agentic Artificial Intelligence - The Regulatory Review
 Reviewing Artificial Intelligence in Materials Discovery - Spectroscopy Online
+FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models - Financial Stability Board
+Artificial intelligence agents going rogue fuel calls for regulation - PBS
+Opinion | Much Ado About Artificial Intelligence - wsj.com

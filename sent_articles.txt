@@ -716,3 +716,6 @@ Reviewing Artificial Intelligence in Materials Discovery - Spectroscopy Online
 FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models - Financial Stability Board
 Artificial intelligence agents going rogue fuel calls for regulation - PBS
 Opinion | Much Ado About Artificial Intelligence - wsj.com
+AI Can Write Your Code. The New Developer Skill Is Knowing What to Reject.
+Decision Trees in Machine Learning: From Simple Rules to Non-Linear Predictions
+Trusteeship in the Age of Artificial Intelligence: The Value of Judgement - Teneo

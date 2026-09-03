@@ -719,3 +719,6 @@ Opinion | Much Ado About Artificial Intelligence - wsj.com
 AI Can Write Your Code. The New Developer Skill Is Knowing What to Reject.
 Decision Trees in Machine Learning: From Simple Rules to Non-Linear Predictions
 Trusteeship in the Age of Artificial Intelligence: The Value of Judgement - Teneo
+How Is Mathematics Used in AI?
+How LLM Inference Works: A Practical Guide to Serving and Optimizing Large Language Models
+Designing physics experiments with artificial intelligence - Nature

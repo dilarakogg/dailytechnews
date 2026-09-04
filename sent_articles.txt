@@ -722,3 +722,6 @@ Trusteeship in the Age of Artificial Intelligence: The Value of Judgement - Tene
 How Is Mathematics Used in AI?
 How LLM Inference Works: A Practical Guide to Serving and Optimizing Large Language Models
 Designing physics experiments with artificial intelligence - Nature
+Machine Learning Chapter 1.2: Generalization, Data Splitting & Cost Functions
+Le nuove sfide del Machine Learning nella costruzione di Dataset
+97.5% Accuracy on Synthetic Data: What It Really Means (And What I Learned Building a GLOF Risk…

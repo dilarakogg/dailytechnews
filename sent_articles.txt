@@ -725,3 +725,6 @@ Designing physics experiments with artificial intelligence - Nature
 Machine Learning Chapter 1.2: Generalization, Data Splitting & Cost Functions
 Le nuove sfide del Machine Learning nella costruzione di Dataset
 97.5% Accuracy on Synthetic Data: What It Really Means (And What I Learned Building a GLOF Risk…
+Machine Learning Chapter 1.4: The Bias-Variance Dilemma, Regularization & Cross-Validation
+Decision Trees in Machine Learning: A Beginner-Friendly Guide
+Best Machine Learning Projects for Final Year with Source Code

@@ -728,3 +728,6 @@ Le nuove sfide del Machine Learning nella costruzione di Dataset
 Machine Learning Chapter 1.4: The Bias-Variance Dilemma, Regularization & Cross-Validation
 Decision Trees in Machine Learning: A Beginner-Friendly Guide
 Best Machine Learning Projects for Final Year with Source Code
+# Neural Networks from Scratch — The Missing Layer Between Math and Transformers
+NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)
+Leading AI journalist gives free UH talk on artificial intelligence - University of Hawaii System

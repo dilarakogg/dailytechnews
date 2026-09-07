@@ -731,3 +731,6 @@ Best Machine Learning Projects for Final Year with Source Code
 # Neural Networks from Scratch — The Missing Layer Between Math and Transformers
 NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)
 Leading AI journalist gives free UH talk on artificial intelligence - University of Hawaii System
+I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian
+The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes - cancernetwork.com
+Artificial intelligence and building design - Fifty Plus Advocate

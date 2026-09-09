@@ -738,3 +738,6 @@ The Transformative Role of Artificial Intelligence in Modern Education
 ​Artificial intelligence is…
 Can Artificial Intelligence Predict the Right Partner for You? - Greater Good: The Science of a Meaningful Life
 A Caution About Artificial Intelligence - The ClassicCars.com Journal
+5 Machine Learning Algorithms Every Geospatial Python Developer Should Know
+The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No - The Intercept
+Saint-Gobain appoints Annica Hagen as Chief Artificial Intelligence Officer and accelerates AI deployment - saint-gobain.com

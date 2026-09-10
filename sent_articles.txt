@@ -741,3 +741,6 @@ A Caution About Artificial Intelligence - The ClassicCars.com Journal
 5 Machine Learning Algorithms Every Geospatial Python Developer Should Know
 The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No - The Intercept
 Saint-Gobain appoints Annica Hagen as Chief Artificial Intelligence Officer and accelerates AI deployment - saint-gobain.com
+MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines
+Closing the AI Access Gap in Asia-Pacific
+The Hardest Part of My ML Project Wasn’t the ML

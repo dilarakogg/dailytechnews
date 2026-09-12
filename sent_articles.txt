@@ -747,3 +747,6 @@ The Hardest Part of My ML Project Wasn’t the ML
 Most Data Scientists Don’t Have a Machine Learning Problem. They Have a Data Problem
 PCA for Dummies
 Is AI a Threat to Humanity? The Real Risks of Artificial Intelligence
+How Will You Trust Your Machine Learning Model?
+The next frontier is not artificial intelligence, it’s artificial societies - The Conversation
+China’s artificial intelligence goals and strategic choices for Europe - Bruegel

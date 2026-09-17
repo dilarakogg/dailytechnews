@@ -762,3 +762,6 @@ China’s artificial intelligence goals and strategic choices for Europe - brueg
 How Artificial Intelligence Is Changing Everyday Life
 Hyperbolic Neural Networks: A Geometry Where Volume Grows Exponentially, Not Polynomially
 Machine Learning Classification Project: Student Guide
+Artificial Intelligence in Education: What Students and Teachers Should Know in 2026
+Machine Learning Models for Player Churn Prediction: How AI Is Saving the Gaming Industry From…
+Coast Guard debuts new collaboration and research hub on artificial intelligence - United States Coast Guard (.mil)

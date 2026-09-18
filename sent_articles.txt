@@ -765,3 +765,6 @@ Machine Learning Classification Project: Student Guide
 Artificial Intelligence in Education: What Students and Teachers Should Know in 2026
 Machine Learning Models for Player Churn Prediction: How AI Is Saving the Gaming Industry From…
 Coast Guard debuts new collaboration and research hub on artificial intelligence - United States Coast Guard (.mil)
+How Much Does It Cost to Make AI Lie?
+NVIDIA GPU Servers: Powering AI, Machine Learning and HPC in 2026
+Building health-literate artificial intelligence - Nature

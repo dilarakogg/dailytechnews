@@ -768,3 +768,6 @@ Coast Guard debuts new collaboration and research hub on artificial intelligence
 How Much Does It Cost to Make AI Lie?
 NVIDIA GPU Servers: Powering AI, Machine Learning and HPC in 2026
 Building health-literate artificial intelligence - Nature
+Tensor Networks and Tensor Train Decomposition: Taming the Curse of Dimensionality
+Professional Diploma in AI & Machine Learning for Beginners to Advanced
+What is AI, ML, DL and DS?

@@ -771,3 +771,6 @@ Building health-literate artificial intelligence - Nature
 Tensor Networks and Tensor Train Decomposition: Taming the Curse of Dimensionality
 Professional Diploma in AI & Machine Learning for Beginners to Advanced
 What is AI, ML, DL and DS?
+Ultrasound In, Mask Class Box and Biometry Out From One Stack | PYCAD
+Messy to Meaningful: Preparing Data for Machine Learning
+Artificial intelligence now beats some of the best human forecasters - The Economist

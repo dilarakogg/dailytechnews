@@ -774,3 +774,6 @@ What is AI, ML, DL and DS?
 Ultrasound In, Mask Class Box and Biometry Out From One Stack | PYCAD
 Messy to Meaningful: Preparing Data for Machine Learning
 Artificial intelligence now beats some of the best human forecasters - The Economist
+Counter-terrorism operation leverages artificial intelligence to identify 126 terrorism suspects - Interpol
+Artificial Intelligence, the Erosion of Mystery, and the Degradation of Questions - Spectrum Magazine
+The king and AI: U.K. monarch Charles meets with artificial intelligence leaders - NBC News

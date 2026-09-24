@@ -783,3 +783,6 @@ How Is Artificial Intelligence Insured? - RAND
 AI RumorBoard, Sept 23, China, Meta, and SI
 AI and Machine Learning Model Testing Solutions
 Advisory Group on Mathematics and Artificial Intelligence - OpenAI
+Why do deep neural networks suffer from the vanishing gradient problem?
+The AI Revolution Happening in Stealth: How Audora is Redefining the Future of Intelligence
+Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence - Nature

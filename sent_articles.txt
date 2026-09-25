@@ -786,3 +786,6 @@ Advisory Group on Mathematics and Artificial Intelligence - OpenAI
 Why do deep neural networks suffer from the vanishing gradient problem?
 The AI Revolution Happening in Stealth: How Audora is Redefining the Future of Intelligence
 Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence - Nature
+What Is Self-Improving AI and How Does It Work?
+They Said AI Might Kill Us All. Then They Announced a Process Change.
+From Machine Learning to Agentic AI: The Technology Renaissance of Our Generation

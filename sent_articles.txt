@@ -795,3 +795,6 @@ US diplomats told to say ‘super intelligence’ — not ‘artificial intellig
 Introduction to Natural Language Processing: How Machines Understand Human Language
 Diplomats ordered to use ‘super intelligence’ instead of ‘artificial intelligence’ in Trump push - The Hill
 Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO
+What Happens When We Build Something Smarter Than Us?
+Stop Answering Machine Learning Interview Questions Like a Textbook
+What Building JATAYU Taught Me About Cybersecurity That Tutorials Didn’t

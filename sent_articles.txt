@@ -804,3 +804,6 @@ Will artificial intelligence really kill us all? - CBS News
 Comparative Study of AI Search Algorithms for State Space Search Operation
 Inside the Biggest Feud in Artificial Intelligence - The Atlantic
 Rice University to offer Master of Artificial Intelligence degree program in 2027 - Houston Public Media
+How AI Benchmarking Can Improve the Reliability of Autonomous Geological Research
+Data Leakage: The Hidden Reason Your Machine Learning Model Looks Too Good
+“I’m Trying to Learn Machine Learning Like a Student, Not Like a Researcher”

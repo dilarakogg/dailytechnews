@@ -807,3 +807,6 @@ Rice University to offer Master of Artificial Intelligence degree program in 202
 How AI Benchmarking Can Improve the Reliability of Autonomous Geological Research
 Data Leakage: The Hidden Reason Your Machine Learning Model Looks Too Good
 “I’m Trying to Learn Machine Learning Like a Student, Not Like a Researcher”
+OpenAI Just Turned on Its Partners, and Even Its Own Former Researcher
+One Prompting Habit Explains Most of the Difference in AI Output
+Data Acquisition & Management: Proses Mengumpulkan dan Mengelola Data untuk AI dan Machine Learning

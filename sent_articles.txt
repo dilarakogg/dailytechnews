@@ -810,3 +810,6 @@ Data Leakage: The Hidden Reason Your Machine Learning Model Looks Too Good
 OpenAI Just Turned on Its Partners, and Even Its Own Former Researcher
 One Prompting Habit Explains Most of the Difference in AI Output
 Data Acquisition & Management: Proses Mengumpulkan dan Mengelola Data untuk AI dan Machine Learning
+AI Agents: Does the End Justify the Means?
+From Classroom Notes to Open Source: My Machine Learning Notes and Assignments on GitHub
+Adversarial artificial intelligence: Implications of strategic stability attacks on military AI systems - RAND.org

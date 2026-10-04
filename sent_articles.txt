@@ -813,3 +813,6 @@ Data Acquisition & Management: Proses Mengumpulkan dan Mengelola Data untuk AI d
 AI Agents: Does the End Justify the Means?
 From Classroom Notes to Open Source: My Machine Learning Notes and Assignments on GitHub
 Adversarial artificial intelligence: Implications of strategic stability attacks on military AI systems - RAND.org
+Diploma in Artificial Intelligence and Machine Learning — Skill Development Course
+Artificial intelligence is coming for Israel’s voters - The Economist
+Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’ - The Guardian

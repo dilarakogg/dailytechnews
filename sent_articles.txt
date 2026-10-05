@@ -816,3 +816,6 @@ Adversarial artificial intelligence: Implications of strategic stability attacks
 Diploma in Artificial Intelligence and Machine Learning — Skill Development Course
 Artificial intelligence is coming for Israel’s voters - The Economist
 Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’ - The Guardian
+Preparing Data for Machine Learning in Python
+Diffusion Transformers and Flow Matching: Scaling the Architecture Behind Modern Image Generation
+Edu: 2 The widest street between two crowds

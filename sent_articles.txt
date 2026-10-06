@@ -819,3 +819,6 @@ Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’ 
 Preparing Data for Machine Learning in Python
 Diffusion Transformers and Flow Matching: Scaling the Architecture Behind Modern Image Generation
 Edu: 2 The widest street between two crowds
+Is Your Intrusion Detector Learning Attacks or Just the Dataset?
+Commentary: Artificial intelligence in the classroom - washingtonstatestandard.com
+Artificial intelligence - World Meteorological Organization WMO

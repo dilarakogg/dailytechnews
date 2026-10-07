@@ -822,3 +822,6 @@ Edu: 2 The widest street between two crowds
 Is Your Intrusion Detector Learning Attacks or Just the Dataset?
 Commentary: Artificial intelligence in the classroom - washingtonstatestandard.com
 Artificial intelligence - World Meteorological Organization WMO
+How Artificial Intelligence is Changing Our Daily Life
+Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Tech News Center
+Guest column: A caution about artificial intelligence - Riverhead News Review

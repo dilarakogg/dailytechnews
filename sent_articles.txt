@@ -825,3 +825,6 @@ Artificial intelligence - World Meteorological Organization WMO
 How Artificial Intelligence is Changing Our Daily Life
 Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence - Georgia Tech News Center
 Guest column: A caution about artificial intelligence - Riverhead News Review
+How Machine Learning and Digital Twins can Predict Structural Damage in Earthquake-Prone Buildings
+7 Common Bugs in AI-Generated Machine Learning Code and How to Fix Them
+Can Artificial Intelligence Learn the Art of Surgery? - The New York Times

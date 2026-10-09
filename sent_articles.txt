@@ -828,3 +828,6 @@ Guest column: A caution about artificial intelligence - Riverhead News Review
 How Machine Learning and Digital Twins can Predict Structural Damage in Earthquake-Prone Buildings
 7 Common Bugs in AI-Generated Machine Learning Code and How to Fix Them
 Can Artificial Intelligence Learn the Art of Surgery? - The New York Times
+Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop - Idaho National Laboratory (.gov)
+Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - AP News
+New state honor recognizes intentional use of artificial intelligence in higher ed - Colorado Public Radio

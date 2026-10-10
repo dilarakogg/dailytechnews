@@ -831,3 +831,6 @@ Can Artificial Intelligence Learn the Art of Surgery? - The New York Times
 Grounded Reasoning and Artificial Intelligence for National Security (GRAINS) Workshop - Idaho National Laboratory (.gov)
 Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - AP News
 New state honor recognizes intentional use of artificial intelligence in higher ed - Colorado Public Radio
+What Is Jev Actually Useful For? Exploring Six Practical Use Cases
+Why AI Works: The Recursive Geometry of Reality
+Turning Text into Numbers: A Beginner’s Guide to Categorical Data Encoding in Machine Learning

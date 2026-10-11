@@ -834,3 +834,6 @@ New state honor recognizes intentional use of artificial intelligence in higher 
 What Is Jev Actually Useful For? Exploring Six Practical Use Cases
 Why AI Works: The Recursive Geometry of Reality
 Turning Text into Numbers: A Beginner’s Guide to Categorical Data Encoding in Machine Learning
+Beyond Code: My Journey into Artificial Intelligence and Data Science
+Neural Networks: From Weighted Inputs to Predictions
+Demystifying Quantization in Deep Learning: From Floating-Point Numbers to Efficient Integer…

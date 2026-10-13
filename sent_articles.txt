@@ -840,3 +840,6 @@ Demystifying Quantization in Deep Learning: From Floating-Point Numbers to Effic
 Building ML-Enabled Web Applications: From User Requests to Background Jobs with FastAPI, Celery…
 Penerapan Unsupervised Learning Menggunakan K-Means, Hierarchical Clustering, dan PCA Dalam Kasus…
 Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology - Representative Tom Barrett | (.gov)
+When AI Needs More Electricity: Can Our Power Grids Keep Up?
+Precompute First
+UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence - UC Santa Barbara

@@ -843,3 +843,6 @@ Barrett Introduces Legislation to Address Growing Threats from Artificial Intell
 When AI Needs More Electricity: Can Our Power Grids Keep Up?
 Precompute First
 UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence - UC Santa Barbara
+How artificial neural networks build their own learning machinery
+AI can act exactly like a human, but we still don't think it's conscious
+What Is the Cost of Building an AI-Powered Enterprise Fintech App?

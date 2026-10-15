@@ -846,3 +846,6 @@ UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence - 
 How artificial neural networks build their own learning machinery
 AI can act exactly like a human, but we still don't think it's conscious
 What Is the Cost of Building an AI-Powered Enterprise Fintech App?
+Why AI Needs Governance
+Generative AI vs Machine Learning Course: Which Should Career Switchers Choose?
+Bayes Error Rate (The Irreducible error floor)

@@ -861,3 +861,6 @@ The Evolution of Artificial Intelligence: A Journey Through Time
 MacBook Air vs MacBook Pro for Local LLMs: Where Does Your Money Go?
 The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co - Facebook
 Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature
+Beyond Automation: Building AI Agents That Know When to Act
+Bagaimana CNN Mengenali Penyakit Tanaman dari Daun? Review Penelitian Computer Vision
+Deploy a Simple Linear Regression Model with Streamlit

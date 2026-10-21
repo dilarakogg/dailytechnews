@@ -864,3 +864,6 @@ Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature
 Beyond Automation: Building AI Agents That Know When to Act
 Bagaimana CNN Mengenali Penyakit Tanaman dari Daun? Review Penelitian Computer Vision
 Deploy a Simple Linear Regression Model with Streamlit
+Best Telegram Channels for Python and Machine Learning (2026)
+AI Task Force recommendations guide Marquette’s next steps on artificial intelligence - Marquette Today
+UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships - University of California San Diego

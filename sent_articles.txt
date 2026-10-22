@@ -867,3 +867,6 @@ Deploy a Simple Linear Regression Model with Streamlit
 Best Telegram Channels for Python and Machine Learning (2026)
 AI Task Force recommendations guide Marquette’s next steps on artificial intelligence - Marquette Today
 UC San Diego Artificial Intelligence Majors Applied their Skills in Summer Internships - University of California San Diego
+Artificial intelligence-enabled triage tools may reflect human biases : Newsroom - UT Southwestern
+HUDS Expands Artificial Intelligence System to Reduce Food Waste - The Harvard Crimson
+Judges explore Artificial Intelligence but keep decision-making human - The Florida Bar

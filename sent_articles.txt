@@ -879,3 +879,6 @@ Here’s How UMKC is Embracing Artificial Intelligence - University of Missouri-
 Liquid AI’s LFM2.5 Activates 2B Weights at 184 Tokens/Sec
 Stop Collecting AI Tutorials. Build These 5 Kaggle Projects Instead.
 Simulating the Strike: Taking Phage Therapy to the Atomic Level with Molecular Dynamics
+Texas Sues OpenAI: What Business Owners Need to Know About AI Liability
+Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks - Yahoo Finance
+A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information - Rutgers University

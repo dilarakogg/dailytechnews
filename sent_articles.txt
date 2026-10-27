@@ -882,3 +882,6 @@ Simulating the Strike: Taking Phage Therapy to the Atomic Level with Molecular D
 Texas Sues OpenAI: What Business Owners Need to Know About AI Liability
 Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks - Yahoo Finance
 A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information - Rutgers University
+Membangun Model Machine Learning Pendeteksi Overheating Server Data Center: Panduan Praktis…
+Exploratory Data Analysis with Python: How to Explore Data Before Machine Learning
+Prediksi Harga Mobil Bekas Menggunakan Machine Learning dengan Python (Studi Kasus: Random Forest)

@@ -885,3 +885,6 @@ A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Inform
 Membangun Model Machine Learning Pendeteksi Overheating Server Data Center: Panduan Praktis…
 Exploratory Data Analysis with Python: How to Explore Data Before Machine Learning
 Prediksi Harga Mobil Bekas Menggunakan Machine Learning dengan Python (Studi Kasus: Random Forest)
+Trump says he will ban term artificial intelligence - Reuters
+Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ - Forbes
+Taxing artificial intelligence: What’s on the table, and what’s at stake - Brookings

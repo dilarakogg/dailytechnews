@@ -903,3 +903,6 @@ NIH Awards Morgan State $520,000 Grant to Advance Biomedical Artificial Intellig
 7 Free Resources to Build Your Career in the AI Era
 Watan AI: How I Built My Own AI Platform
 The AI Bubble Is Hiding in Plain Sight (And Running Out of Power)
+Real-World Enterprise AI: Five Industries, Five Implementations, Measurable Results
+Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising - Consumer Finance Monitor
+Artificial Intelligence and the Ethics of Self-Study - The CPA Journal

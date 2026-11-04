@@ -906,3 +906,6 @@ The AI Bubble Is Hiding in Plain Sight (And Running Out of Power)
 Real-World Enterprise AI: Five Industries, Five Implementations, Measurable Results
 Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising - Consumer Finance Monitor
 Artificial Intelligence and the Ethics of Self-Study - The CPA Journal
+Decision Trees in Machine Learning: From Intuition to Gini Impurity
+Benchmarking EEG Feature Domains for Cross-Subject Emotion Generalization
+Artificial Intelligence (AI) Market Companies, Size and Trends 2026-2035 - Precedence Research

@@ -909,3 +909,6 @@ Artificial Intelligence and the Ethics of Self-Study - The CPA Journal
 Decision Trees in Machine Learning: From Intuition to Gini Impurity
 Benchmarking EEG Feature Domains for Cross-Subject Emotion Generalization
 Artificial Intelligence (AI) Market Companies, Size and Trends 2026-2035 - Precedence Research
+Apple Just Cut Engineers’ AI Budgets by 33%: Is the AI Productivity Boom Getting Too Expensive?
+Artificial intelligence - Reasoning, Algorithms, Automation - Britannica
+Google says there’s no way to use Search without using artificial intelligence - The Guardian

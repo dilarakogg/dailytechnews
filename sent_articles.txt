@@ -912,3 +912,6 @@ Artificial Intelligence (AI) Market Companies, Size and Trends 2026-2035 - Prece
 Apple Just Cut Engineers’ AI Budgets by 33%: Is the AI Productivity Boom Getting Too Expensive?
 Artificial intelligence - Reasoning, Algorithms, Automation - Britannica
 Google says there’s no way to use Search without using artificial intelligence - The Guardian
+Naive Bayes Algorithm: Understanding the Power of Probability in Machine Learning
+Responsible use of artificial intelligence - Nature
+Artificial Intelligence in Earth Science Data Systems - NASA Earthdata (.gov)

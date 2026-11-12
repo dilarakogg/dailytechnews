@@ -927,3 +927,6 @@ Three Essays on Artificial Intelligence and Work in the U.S. - RAND
 What Is Machine Learning? A Beginner’s Guide to How Machines Learn
 Artificial intelligence is desperately seeking its narrative - The Conversation
 Michigan can use artificial intelligence to improve lives - Mackinac Center
+How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly - The Pew Charitable Trusts
+Exploring How Autistic Individuals Interact With Artificial Intelligence - SBU News
+Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ - The Guardian

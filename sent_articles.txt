@@ -930,3 +930,6 @@ Michigan can use artificial intelligence to improve lives - Mackinac Center
 How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly - The Pew Charitable Trusts
 Exploring How Autistic Individuals Interact With Artificial Intelligence - SBU News
 Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ - The Guardian
+Who Gets the Money When AI Makes Everyone Faster?
+I Tested SenseNova U1.5 Against ChatGPT. It Failed Just One Image Test
+Why Your Vision Transformer Doesn’t Understand Physics, and What We Did About It

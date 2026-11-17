@@ -942,3 +942,6 @@ Faculty member addresses artificial intelligence practically and theoretically -
 How to Build an Artificial Intelligence Revolution for All - Time Magazine
 Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act - Inside Global Tech
 APA offers new guidance as artificial intelligence use at work expands - American Psychological Association (APA)
+Learning the language of machine learning
+Medical Image Segmentation in 2026: Do Foundation Models Really Beat the Classic U-Net?
+Hugging Face PyBot: 1,000 Agents Built a Chatbot in Python Using Only If-Else Statements

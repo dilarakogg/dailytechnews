@@ -945,3 +945,6 @@ APA offers new guidance as artificial intelligence use at work expands - America
 Learning the language of machine learning
 Medical Image Segmentation in 2026: Do Foundation Models Really Beat the Classic U-Net?
 Hugging Face PyBot: 1,000 Agents Built a Chatbot in Python Using Only If-Else Statements
+Claude Fable 5.2 and Mythos 5.2: What Has Changed?
+AI Is Learning From Its Competitors. And That Changes the AI Race
+Machine Learning dengan Spark MLlib: Feature Engineering & Regresi

@@ -951,3 +951,6 @@ Machine Learning dengan Spark MLlib: Feature Engineering & Regresi
 AI-Powered Resume Screening and Job Recommendation System Using Machine Learning
 Real-Time AI Restaurant Table Occupancy Detection System
 National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting - Department of Energy (.gov)
+AI helps researchers investigate how thousands of medical studies share code
+Understanding the AI Glossary: AI vs ML vs Deep Learning vs Generative AI
+Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans - U.S. Government Accountability Office (.gov)

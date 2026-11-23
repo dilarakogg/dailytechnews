@@ -960,3 +960,6 @@ Opinion | Artificial intelligence flourished in California election advertising 
 AI may not work like the human brain after all, scientists discover
 Clemson University to launch three new degree programs in artificial intelligence - Clemson News
 The year ahead will be crunch time for artificial intelligence - The Economist
+Why a Bigger GPU Doesn’t Always Mean Faster AI Inference
+You Know Machine Learning. But Can You Survive These 5 Interview Questions?
+Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI - UNESCO

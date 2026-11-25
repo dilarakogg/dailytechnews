@@ -963,3 +963,6 @@ The year ahead will be crunch time for artificial intelligence - The Economist
 Why a Bigger GPU Doesn’t Always Mean Faster AI Inference
 You Know Machine Learning. But Can You Survive These 5 Interview Questions?
 Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI - UNESCO
+How To De-identify Petabytes of Enterprise Data Before RL Training
+Artificial intelligence: loss scenarios and claims developments - Allianz Commercial
+From Wall Street to Main Street, how artificial intelligence is affecting the economy - NPR
